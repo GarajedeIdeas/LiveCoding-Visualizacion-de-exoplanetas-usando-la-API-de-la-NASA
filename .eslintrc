@@ -1,0 +1,20 @@
+{
+  "extends": ["airbnb"],
+  "env": {
+    "node": true,
+    "es6": true,
+    "browser": true
+  },
+  "globals": {
+    "THREE": true,
+    "Victor": true,
+    "globalCompositeOperationModes": true
+  },
+  "rules": {
+    "indent": 0,
+    "comma-dangle": 0,
+    "quotes": 0,
+    "no-plusplus": 0,
+    "quote-props": 0
+  }
+}
