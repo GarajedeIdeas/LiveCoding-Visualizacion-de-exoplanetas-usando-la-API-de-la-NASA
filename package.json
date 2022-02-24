@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/three": "^0.137.0",
-    "http-server": "^14.1.0"
+    "http-server": "^14.1.0",
+    "three": "^0.137.5"
   }
 }

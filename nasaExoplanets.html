@@ -2,27 +2,50 @@
 <html lang="en">
 
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>nasaExoplanets experiment (threejs)</title>
-    <link rel="stylesheet" href="reset.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>nasaExoplanets experiment (threejs)</title>
+  <link rel="stylesheet" href="reset.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300&display=swap" rel="stylesheet">
 </head>
 
 <body>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
-	<style>
-		html,
-		body {
-			overflow: hidden;
-			background-color: black;
-		}
-	</style>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/109/three.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/victor/1.1.0/victor.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TimelineMax.min.js"></script>
-	<script src="./nasaExoplanets.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
+  <style>
+    *,
+    *:focus,
+    *:hover {
+      outline: none;
+    }
+
+    html,
+    body {
+      overflow: hidden;
+      background-color: black;
+    }
+
+    #planet {
+      position: absolute;
+      font-size: 40px;
+      bottom: 30px;
+      left: 30px;
+      z-index: 10000;
+      color: white;
+      font-family: 'Red Hat Display', sans-serif;
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/victor/1.1.0/victor.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TimelineMax.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.110.0/examples/js/controls/OrbitControls.js"></script>
+  <script src="./nasaExoplanets.js"></script>
+
+  <div id="planet"></div>
 
 </body>
 

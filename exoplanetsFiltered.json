@@ -1,0 +1,10670 @@
+[
+    {
+        "name": "Kepler-470 b",
+        "radius": 77.76
+    },
+    {
+        "name": "Kepler-854 b",
+        "radius": 59.19
+    },
+    {
+        "name": "Kepler-24 e",
+        "radius": 43.17
+    },
+    {
+        "name": "Kepler-1025 b",
+        "radius": 35.34
+    },
+    {
+        "name": "Kepler-359 d",
+        "radius": 29.77
+    },
+    {
+        "name": "Kepler-1819 b",
+        "radius": 27.45
+    },
+    {
+        "name": "Kepler-435 b",
+        "radius": 26.52
+    },
+    {
+        "name": "Kepler-1885 b",
+        "radius": 25.82
+    },
+    {
+        "name": "Kepler-1935 b",
+        "radius": 23.51
+    },
+    {
+        "name": "Kepler-1520 b",
+        "radius": 22.95
+    },
+    {
+        "name": "Kepler-1659 b",
+        "radius": 22.29
+    },
+    {
+        "name": "Kepler-1517 b",
+        "radius": 22.27
+    },
+    {
+        "name": "Kepler-13 b",
+        "radius": 21.42
+    },
+    {
+        "name": "Kepler-1964 b",
+        "radius": 21.29
+    },
+    {
+        "name": "Kepler-12 b",
+        "radius": 18.05
+    },
+    {
+        "name": "Kepler-959 b",
+        "radius": 17.38
+    },
+    {
+        "name": "Kepler-490 b",
+        "radius": 16.91
+    },
+    {
+        "name": "Kepler-7 b",
+        "radius": 16.66
+    },
+    {
+        "name": "Kepler-447 b",
+        "radius": 16.51
+    },
+    {
+        "name": "Kepler-2 b",
+        "radius": 16.1
+    },
+    {
+        "name": "Kepler-840 b",
+        "radius": 15.75
+    },
+    {
+        "name": "Kepler-91 b",
+        "radius": 14.93
+    },
+    {
+        "name": "Kepler-5 b",
+        "radius": 14.92
+    },
+    {
+        "name": "Kepler-8 b",
+        "radius": 14.59
+    },
+    {
+        "name": "Kepler-17 b",
+        "radius": 14.48
+    },
+    {
+        "name": "Kepler-39 b",
+        "radius": 14.43
+    },
+    {
+        "name": "Kepler-74 b",
+        "radius": 14.31
+    },
+    {
+        "name": "Kepler-488 b",
+        "radius": 14.16
+    },
+    {
+        "name": "Kepler-770 b",
+        "radius": 13.92
+    },
+    {
+        "name": "Kepler-699 b",
+        "radius": 13.84
+    },
+    {
+        "name": "Kepler-731 b",
+        "radius": 13.61
+    },
+    {
+        "name": "Kepler-40 b",
+        "radius": 13.44
+    },
+    {
+        "name": "Kepler-427 b",
+        "radius": 13.43
+    },
+    {
+        "name": "Kepler-76 b",
+        "radius": 13.43
+    },
+    {
+        "name": "Kepler-468 b",
+        "radius": 13.26
+    },
+    {
+        "name": "Kepler-412 b",
+        "radius": 13.25
+    },
+    {
+        "name": "Kepler-448 b",
+        "radius": 13.16
+    },
+    {
+        "name": "Kepler-718 b",
+        "radius": 13.12
+    },
+    {
+        "name": "Kepler-433 b",
+        "radius": 13.08
+    },
+    {
+        "name": "Kepler-6 b",
+        "radius": 13.06
+    },
+    {
+        "name": "Kepler-1 b",
+        "radius": 13.04
+    },
+    {
+        "name": "Kepler-1658 b",
+        "radius": 12.94
+    },
+    {
+        "name": "Kepler-485 b",
+        "radius": 12.91
+    },
+    {
+        "name": "Kepler-71 b",
+        "radius": 12.78
+    },
+    {
+        "name": "Kepler-423 b",
+        "radius": 12.73
+    },
+    {
+        "name": "Kepler-422 b",
+        "radius": 12.63
+    },
+    {
+        "name": "Kepler-432 b",
+        "radius": 12.41
+    },
+    {
+        "name": "Kepler-44 b",
+        "radius": 12.4
+    },
+    {
+        "name": "Kepler-289 c",
+        "radius": 12.37
+    },
+    {
+        "name": "Kepler-87 b",
+        "radius": 12.28
+    },
+    {
+        "name": "Kepler-670 b",
+        "radius": 12.21
+    },
+    {
+        "name": "Kepler-30 c",
+        "radius": 12.19
+    },
+    {
+        "name": "Kepler-43 b",
+        "radius": 12.14
+    },
+    {
+        "name": "Kepler-762 b",
+        "radius": 12.05
+    },
+    {
+        "name": "Kepler-302 c",
+        "radius": 12.04
+    },
+    {
+        "name": "Kepler-548 b",
+        "radius": 11.76
+    },
+    {
+        "name": "Kepler-1625 b",
+        "radius": 11.67
+    },
+    {
+        "name": "Kepler-419 b",
+        "radius": 11.65
+    },
+    {
+        "name": "Kepler-56 c",
+        "radius": 11.64
+    },
+    {
+        "name": "Kepler-428 b",
+        "radius": 11.58
+    },
+    {
+        "name": "Kepler-1657 b",
+        "radius": 11.49
+    },
+    {
+        "name": "Kepler-706 b",
+        "radius": 11.38
+    },
+    {
+        "name": "Kepler-426 b",
+        "radius": 11.38
+    },
+    {
+        "name": "Kepler-686 b",
+        "radius": 11.3
+    },
+    {
+        "name": "Kepler-434 b",
+        "radius": 11.26
+    },
+    {
+        "name": "Kepler-799 b",
+        "radius": 11.21
+    },
+    {
+        "name": "Kepler-1514 b",
+        "radius": 11.17
+    },
+    {
+        "name": "Kepler-693 b",
+        "radius": 11.01
+    },
+    {
+        "name": "Kepler-486 b",
+        "radius": 10.99
+    },
+    {
+        "name": "Kepler-553 c",
+        "radius": 10.99
+    },
+    {
+        "name": "Kepler-725 b",
+        "radius": 10.98
+    },
+    {
+        "name": "Kepler-493 b",
+        "radius": 10.96
+    },
+    {
+        "name": "Kepler-487 b",
+        "radius": 10.89
+    },
+    {
+        "name": "Kepler-90 h",
+        "radius": 10.89
+    },
+    {
+        "name": "Kepler-1704 b",
+        "radius": 10.81
+    },
+    {
+        "name": "Kepler-471 b",
+        "radius": 10.63
+    },
+    {
+        "name": "Kepler-15 b",
+        "radius": 10.62
+    },
+    {
+        "name": "Kepler-720 b",
+        "radius": 10.6
+    },
+    {
+        "name": "Kepler-117 c",
+        "radius": 10.6
+    },
+    {
+        "name": "Kepler-45 b",
+        "radius": 10.6
+    },
+    {
+        "name": "Kepler-723 b",
+        "radius": 10.55
+    },
+    {
+        "name": "Kepler-1662 b",
+        "radius": 10.52
+    },
+    {
+        "name": "Kepler-75 b",
+        "radius": 10.51
+    },
+    {
+        "name": "Kepler-643 b",
+        "radius": 10.47
+    },
+    {
+        "name": "Kepler-51 d",
+        "radius": 10.44
+    },
+    {
+        "name": "Kepler-77 b",
+        "radius": 10.43
+    },
+    {
+        "name": "Kepler-807 b",
+        "radius": 10.36
+    },
+    {
+        "name": "Kepler-1519 b",
+        "radius": 10.31
+    },
+    {
+        "name": "Kepler-841 b",
+        "radius": 10.3
+    },
+    {
+        "name": "Kepler-425 b",
+        "radius": 10.07
+    },
+    {
+        "name": "Kepler-41 b",
+        "radius": 10.05
+    },
+    {
+        "name": "Kepler-539 b",
+        "radius": 10.02
+    },
+    {
+        "name": "Kepler-89 d",
+        "radius": 9.99
+    },
+    {
+        "name": "Kepler-14 b",
+        "radius": 9.86
+    },
+    {
+        "name": "Kepler-418 b",
+        "radius": 9.83
+    },
+    {
+        "name": "Kepler-685 b",
+        "radius": 9.73
+    },
+    {
+        "name": "Kepler-730 b",
+        "radius": 9.66
+    },
+    {
+        "name": "Kepler-1311 d",
+        "radius": 9.52
+    },
+    {
+        "name": "Kepler-820 b",
+        "radius": 9.46
+    },
+    {
+        "name": "Kepler-420 b",
+        "radius": 9.4
+    },
+    {
+        "name": "Kepler-167 e",
+        "radius": 9.27
+    },
+    {
+        "name": "Kepler-1515 b",
+        "radius": 9.17
+    },
+    {
+        "name": "Kepler-628 b",
+        "radius": 9.11
+    },
+    {
+        "name": "Kepler-1513 b",
+        "radius": 9.09
+    },
+    {
+        "name": "Kepler-424 b",
+        "radius": 9.06
+    },
+    {
+        "name": "Kepler-816 b",
+        "radius": 9.01
+    },
+    {
+        "name": "Kepler-491 b",
+        "radius": 9
+    },
+    {
+        "name": "Kepler-695 b",
+        "radius": 8.99
+    },
+    {
+        "name": "Kepler-855 b",
+        "radius": 8.99
+    },
+    {
+        "name": "Kepler-86 b",
+        "radius": 8.98
+    },
+    {
+        "name": "Kepler-714 b",
+        "radius": 8.95
+    },
+    {
+        "name": "Kepler-30 d",
+        "radius": 8.9
+    },
+    {
+        "name": "Kepler-785 b",
+        "radius": 8.78
+    },
+    {
+        "name": "Kepler-890 b",
+        "radius": 8.76
+    },
+    {
+        "name": "Kepler-148 d",
+        "radius": 8.73
+    },
+    {
+        "name": "Kepler-522 b",
+        "radius": 8.56
+    },
+    {
+        "name": "Kepler-827 b",
+        "radius": 8.49
+    },
+    {
+        "name": "Kepler-46 b",
+        "radius": 8.46
+    },
+    {
+        "name": "Kepler-856 b",
+        "radius": 8.43
+    },
+    {
+        "name": "Kepler-702 b",
+        "radius": 8.24
+    },
+    {
+        "name": "Kepler-108 b",
+        "radius": 8.2
+    },
+    {
+        "name": "Kepler-767 b",
+        "radius": 8.19
+    },
+    {
+        "name": "Kepler-603 c",
+        "radius": 8.03
+    },
+    {
+        "name": "Kepler-9 c",
+        "radius": 7.98
+    },
+    {
+        "name": "Kepler-492 b",
+        "radius": 7.94
+    },
+    {
+        "name": "Kepler-238 e",
+        "radius": 7.89
+    },
+    {
+        "name": "Kepler-849 b",
+        "radius": 7.79
+    },
+    {
+        "name": "Kepler-494 b",
+        "radius": 7.79
+    },
+    {
+        "name": "Kepler-108 c",
+        "radius": 7.78
+    },
+    {
+        "name": "Kepler-9 b",
+        "radius": 7.74
+    },
+    {
+        "name": "Kepler-952 b",
+        "radius": 7.7
+    },
+    {
+        "name": "Kepler-90 g",
+        "radius": 7.7
+    },
+    {
+        "name": "Kepler-111 c",
+        "radius": 7.67
+    },
+    {
+        "name": "Kepler-51 b",
+        "radius": 7.65
+    },
+    {
+        "name": "Kepler-770 d",
+        "radius": 7.62
+    },
+    {
+        "name": "Kepler-516 b",
+        "radius": 7.61
+    },
+    {
+        "name": "Kepler-700 b",
+        "radius": 7.59
+    },
+    {
+        "name": "Kepler-511 b",
+        "radius": 7.56
+    },
+    {
+        "name": "Kepler-817 b",
+        "radius": 7.45
+    },
+    {
+        "name": "Kepler-682 b",
+        "radius": 7.4
+    },
+    {
+        "name": "Kepler-117 b",
+        "radius": 7.39
+    },
+    {
+        "name": "Kepler-688 b",
+        "radius": 7.34
+    },
+    {
+        "name": "Kepler-489 b",
+        "radius": 7.31
+    },
+    {
+        "name": "Kepler-546 b",
+        "radius": 7.31
+    },
+    {
+        "name": "Kepler-1746 b",
+        "radius": 7.25
+    },
+    {
+        "name": "Kepler-460 b",
+        "radius": 7.23
+    },
+    {
+        "name": "Kepler-79 d",
+        "radius": 7.14
+    },
+    {
+        "name": "Kepler-1004 b",
+        "radius": 7.1
+    },
+    {
+        "name": "Kepler-561 b",
+        "radius": 7.02
+    },
+    {
+        "name": "Kepler-950 b",
+        "radius": 6.99
+    },
+    {
+        "name": "Kepler-719 b",
+        "radius": 6.96
+    },
+    {
+        "name": "Kepler-177 c",
+        "radius": 6.77
+    },
+    {
+        "name": "Kepler-1633 b",
+        "radius": 6.71
+    },
+    {
+        "name": "Kepler-1527 b",
+        "radius": 6.67
+    },
+    {
+        "name": "Kepler-1667 b",
+        "radius": 6.63
+    },
+    {
+        "name": "Kepler-495 b",
+        "radius": 6.62
+    },
+    {
+        "name": "Kepler-27 c",
+        "radius": 6.5
+    },
+    {
+        "name": "Kepler-87 c",
+        "radius": 6.47
+    },
+    {
+        "name": "Kepler-297 c",
+        "radius": 6.39
+    },
+    {
+        "name": "Kepler-1662 c",
+        "radius": 6.36
+    },
+    {
+        "name": "Kepler-51 c",
+        "radius": 6.34
+    },
+    {
+        "name": "Kepler-857 b",
+        "radius": 6.31
+    },
+    {
+        "name": "Kepler-1326 b",
+        "radius": 6.3
+    },
+    {
+        "name": "Kepler-1628 b",
+        "radius": 6.28
+    },
+    {
+        "name": "Kepler-118 c",
+        "radius": 6.24
+    },
+    {
+        "name": "Kepler-696 b",
+        "radius": 6.21
+    },
+    {
+        "name": "Kepler-1543 b",
+        "radius": 6.14
+    },
+    {
+        "name": "Kepler-1085 b",
+        "radius": 6.11
+    },
+    {
+        "name": "Kepler-450 b",
+        "radius": 6.08
+    },
+    {
+        "name": "Kepler-89 e",
+        "radius": 6.07
+    },
+    {
+        "name": "Kepler-1638 b",
+        "radius": 6.04
+    },
+    {
+        "name": "Kepler-673 b",
+        "radius": 6.02
+    },
+    {
+        "name": "Kepler-397 c",
+        "radius": 6.01
+    },
+    {
+        "name": "Kepler-789 b",
+        "radius": 5.99
+    },
+    {
+        "name": "Kepler-536 b",
+        "radius": 5.95
+    },
+    {
+        "name": "Kepler-18 d",
+        "radius": 5.94
+    },
+    {
+        "name": "Kepler-460 c",
+        "radius": 5.94
+    },
+    {
+        "name": "Kepler-1360 b",
+        "radius": 5.92
+    },
+    {
+        "name": "Kepler-770 c",
+        "radius": 5.88
+    },
+    {
+        "name": "Kepler-637 b",
+        "radius": 5.86
+    },
+    {
+        "name": "Kepler-1640 b",
+        "radius": 5.83
+    },
+    {
+        "name": "Kepler-891 b",
+        "radius": 5.82
+    },
+    {
+        "name": "Kepler-497 b",
+        "radius": 5.81
+    },
+    {
+        "name": "Kepler-458 b",
+        "radius": 5.8
+    },
+    {
+        "name": "Kepler-229 c",
+        "radius": 5.76
+    },
+    {
+        "name": "Kepler-951 b",
+        "radius": 5.76
+    },
+    {
+        "name": "Kepler-913 b",
+        "radius": 5.75
+    },
+    {
+        "name": "Kepler-63 b",
+        "radius": 5.73
+    },
+    {
+        "name": "Kepler-56 b",
+        "radius": 5.68
+    },
+    {
+        "name": "Kepler-122 c",
+        "radius": 5.65
+    },
+    {
+        "name": "Kepler-101 b",
+        "radius": 5.64
+    },
+    {
+        "name": "Kepler-690 b",
+        "radius": 5.52
+    },
+    {
+        "name": "Kepler-82 c",
+        "radius": 5.51
+    },
+    {
+        "name": "Kepler-667 b",
+        "radius": 5.5
+    },
+    {
+        "name": "Kepler-31 b",
+        "radius": 5.5
+    },
+    {
+        "name": "Kepler-1530 d",
+        "radius": 5.5
+    },
+    {
+        "name": "Kepler-279 c",
+        "radius": 5.47
+    },
+    {
+        "name": "Kepler-103 c",
+        "radius": 5.47
+    },
+    {
+        "name": "Kepler-1642 b",
+        "radius": 5.41
+    },
+    {
+        "name": "Kepler-1737 b",
+        "radius": 5.4
+    },
+    {
+        "name": "Kepler-703 b",
+        "radius": 5.39
+    },
+    {
+        "name": "Kepler-1562 b",
+        "radius": 5.38
+    },
+    {
+        "name": "Kepler-1109 b",
+        "radius": 5.37
+    },
+    {
+        "name": "Kepler-257 d",
+        "radius": 5.34
+    },
+    {
+        "name": "Kepler-677 b",
+        "radius": 5.31
+    },
+    {
+        "name": "Kepler-281 c",
+        "radius": 5.3
+    },
+    {
+        "name": "Kepler-31 c",
+        "radius": 5.22
+    },
+    {
+        "name": "Kepler-747 b",
+        "radius": 5.17
+    },
+    {
+        "name": "Kepler-1314 b",
+        "radius": 5.15
+    },
+    {
+        "name": "Kepler-1665 b",
+        "radius": 5.15
+    },
+    {
+        "name": "Kepler-1023 b",
+        "radius": 5.14
+    },
+    {
+        "name": "Kepler-359 c",
+        "radius": 5.14
+    },
+    {
+        "name": "Kepler-943 b",
+        "radius": 5.12
+    },
+    {
+        "name": "Kepler-960 b",
+        "radius": 5.12
+    },
+    {
+        "name": "Kepler-418 c",
+        "radius": 5.1
+    },
+    {
+        "name": "Kepler-957 b",
+        "radius": 5.1
+    },
+    {
+        "name": "Kepler-1129 b",
+        "radius": 5.09
+    },
+    {
+        "name": "Kepler-1487 b",
+        "radius": 5.05
+    },
+    {
+        "name": "Kepler-1752 b",
+        "radius": 5.04
+    },
+    {
+        "name": "Kepler-27 b",
+        "radius": 5
+    },
+    {
+        "name": "Kepler-1465 b",
+        "radius": 4.98
+    },
+    {
+        "name": "Kepler-1280 b",
+        "radius": 4.96
+    },
+    {
+        "name": "Kepler-562 b",
+        "radius": 4.96
+    },
+    {
+        "name": "Kepler-328 c",
+        "radius": 4.94
+    },
+    {
+        "name": "Kepler-18 c",
+        "radius": 4.91
+    },
+    {
+        "name": "Kepler-1624 b",
+        "radius": 4.91
+    },
+    {
+        "name": "Kepler-678 b",
+        "radius": 4.86
+    },
+    {
+        "name": "Kepler-1333 b",
+        "radius": 4.85
+    },
+    {
+        "name": "Kepler-1732 b",
+        "radius": 4.84
+    },
+    {
+        "name": "Kepler-3 b",
+        "radius": 4.82
+    },
+    {
+        "name": "Kepler-1642 c",
+        "radius": 4.81
+    },
+    {
+        "name": "Kepler-858 b",
+        "radius": 4.78
+    },
+    {
+        "name": "Kepler-33 d",
+        "radius": 4.76
+    },
+    {
+        "name": "Kepler-266 c",
+        "radius": 4.75
+    },
+    {
+        "name": "Kepler-25 c",
+        "radius": 4.75
+    },
+    {
+        "name": "Kepler-591 b",
+        "radius": 4.71
+    },
+    {
+        "name": "Kepler-222 c",
+        "radius": 4.71
+    },
+    {
+        "name": "Kepler-396 c",
+        "radius": 4.7
+    },
+    {
+        "name": "Kepler-1750 b",
+        "radius": 4.68
+    },
+    {
+        "name": "Kepler-972 b",
+        "radius": 4.67
+    },
+    {
+        "name": "Kepler-740 b",
+        "radius": 4.66
+    },
+    {
+        "name": "Kepler-880 b",
+        "radius": 4.65
+    },
+    {
+        "name": "Kepler-1442 b",
+        "radius": 4.63
+    },
+    {
+        "name": "Kepler-564 b",
+        "radius": 4.61
+    },
+    {
+        "name": "Kepler-867 b",
+        "radius": 4.6
+    },
+    {
+        "name": "Kepler-501 b",
+        "radius": 4.59
+    },
+    {
+        "name": "Kepler-1936 b",
+        "radius": 4.59
+    },
+    {
+        "name": "Kepler-1730 b",
+        "radius": 4.56
+    },
+    {
+        "name": "Kepler-257 c",
+        "radius": 4.56
+    },
+    {
+        "name": "Kepler-953 b",
+        "radius": 4.55
+    },
+    {
+        "name": "Kepler-278 b",
+        "radius": 4.54
+    },
+    {
+        "name": "Kepler-1000 b",
+        "radius": 4.54
+    },
+    {
+        "name": "Kepler-712 c",
+        "radius": 4.53
+    },
+    {
+        "name": "Kepler-421 b",
+        "radius": 4.53
+    },
+    {
+        "name": "Kepler-1172 b",
+        "radius": 4.53
+    },
+    {
+        "name": "Kepler-1656 b",
+        "radius": 4.52
+    },
+    {
+        "name": "Kepler-462 c",
+        "radius": 4.52
+    },
+    {
+        "name": "Kepler-553 b",
+        "radius": 4.48
+    },
+    {
+        "name": "Kepler-578 b",
+        "radius": 4.47
+    },
+    {
+        "name": "Kepler-1504 b",
+        "radius": 4.47
+    },
+    {
+        "name": "Kepler-554 b",
+        "radius": 4.45
+    },
+    {
+        "name": "Kepler-669 b",
+        "radius": 4.43
+    },
+    {
+        "name": "Kepler-1830 b",
+        "radius": 4.43
+    },
+    {
+        "name": "Kepler-636 b",
+        "radius": 4.43
+    },
+    {
+        "name": "Kepler-818 b",
+        "radius": 4.42
+    },
+    {
+        "name": "Kepler-1013 b",
+        "radius": 4.41
+    },
+    {
+        "name": "Kepler-750 b",
+        "radius": 4.39
+    },
+    {
+        "name": "Kepler-1672 b",
+        "radius": 4.37
+    },
+    {
+        "name": "Kepler-697 b",
+        "radius": 4.35
+    },
+    {
+        "name": "Kepler-920 c",
+        "radius": 4.35
+    },
+    {
+        "name": "Kepler-473 b",
+        "radius": 4.32
+    },
+    {
+        "name": "Kepler-281 d",
+        "radius": 4.3
+    },
+    {
+        "name": "Kepler-1668 b",
+        "radius": 4.3
+    },
+    {
+        "name": "Kepler-149 d",
+        "radius": 4.28
+    },
+    {
+        "name": "Kepler-1634 b",
+        "radius": 4.27
+    },
+    {
+        "name": "Kepler-815 b",
+        "radius": 4.26
+    },
+    {
+        "name": "Kepler-458 c",
+        "radius": 4.24
+    },
+    {
+        "name": "Kepler-813 b",
+        "radius": 4.23
+    },
+    {
+        "name": "Kepler-1755 b",
+        "radius": 4.22
+    },
+    {
+        "name": "Kepler-375 c",
+        "radius": 4.22
+    },
+    {
+        "name": "Kepler-1016 c",
+        "radius": 4.22
+    },
+    {
+        "name": "Kepler-368 c",
+        "radius": 4.21
+    },
+    {
+        "name": "Kepler-315 c",
+        "radius": 4.2
+    },
+    {
+        "name": "Kepler-258 b",
+        "radius": 4.18
+    },
+    {
+        "name": "Kepler-550 b",
+        "radius": 4.17
+    },
+    {
+        "name": "Kepler-584 b",
+        "radius": 4.17
+    },
+    {
+        "name": "Kepler-1510 b",
+        "radius": 4.17
+    },
+    {
+        "name": "Kepler-247 c",
+        "radius": 4.16
+    },
+    {
+        "name": "Kepler-149 b",
+        "radius": 4.15
+    },
+    {
+        "name": "Kepler-248 c",
+        "radius": 4.14
+    },
+    {
+        "name": "Kepler-276 d",
+        "radius": 4.14
+    },
+    {
+        "name": "Kepler-502 b",
+        "radius": 4.14
+    },
+    {
+        "name": "Kepler-4 b",
+        "radius": 4.13
+    },
+    {
+        "name": "Kepler-24 c",
+        "radius": 4.12
+    },
+    {
+        "name": "Kepler-11 e",
+        "radius": 4.12
+    },
+    {
+        "name": "Kepler-254 b",
+        "radius": 4.09
+    },
+    {
+        "name": "Kepler-1641 b",
+        "radius": 4.07
+    },
+    {
+        "name": "Kepler-1321 b",
+        "radius": 4.04
+    },
+    {
+        "name": "Kepler-154 d",
+        "radius": 4.04
+    },
+    {
+        "name": "Kepler-527 b",
+        "radius": 4.03
+    },
+    {
+        "name": "Kepler-559 b",
+        "radius": 4.03
+    },
+    {
+        "name": "Kepler-53 c",
+        "radius": 4.02
+    },
+    {
+        "name": "Kepler-315 b",
+        "radius": 4.01
+    },
+    {
+        "name": "Kepler-219 c",
+        "radius": 4.01
+    },
+    {
+        "name": "Kepler-1447 b",
+        "radius": 4.01
+    },
+    {
+        "name": "Kepler-31 d",
+        "radius": 4
+    },
+    {
+        "name": "Kepler-288 c",
+        "radius": 4
+    },
+    {
+        "name": "Kepler-359 b",
+        "radius": 4
+    },
+    {
+        "name": "Kepler-975 b",
+        "radius": 3.97
+    },
+    {
+        "name": "Kepler-616 c",
+        "radius": 3.96
+    },
+    {
+        "name": "Kepler-232 c",
+        "radius": 3.95
+    },
+    {
+        "name": "Kepler-541 b",
+        "radius": 3.95
+    },
+    {
+        "name": "Kepler-595 b",
+        "radius": 3.95
+    },
+    {
+        "name": "Kepler-642 b",
+        "radius": 3.95
+    },
+    {
+        "name": "Kepler-724 b",
+        "radius": 3.94
+    },
+    {
+        "name": "Kepler-966 b",
+        "radius": 3.94
+    },
+    {
+        "name": "Kepler-1480 b",
+        "radius": 3.94
+    },
+    {
+        "name": "Kepler-88 b",
+        "radius": 3.93
+    },
+    {
+        "name": "Kepler-971 b",
+        "radius": 3.93
+    },
+    {
+        "name": "Kepler-1151 b",
+        "radius": 3.93
+    },
+    {
+        "name": "Kepler-33 f",
+        "radius": 3.92
+    },
+    {
+        "name": "Kepler-82 b",
+        "radius": 3.91
+    },
+    {
+        "name": "Kepler-228 d",
+        "radius": 3.9
+    },
+    {
+        "name": "Kepler-608 b",
+        "radius": 3.89
+    },
+    {
+        "name": "Kepler-293 c",
+        "radius": 3.88
+    },
+    {
+        "name": "Kepler-803 b",
+        "radius": 3.88
+    },
+    {
+        "name": "Kepler-1810 b",
+        "radius": 3.87
+    },
+    {
+        "name": "Kepler-229 d",
+        "radius": 3.86
+    },
+    {
+        "name": "Kepler-318 b",
+        "radius": 3.86
+    },
+    {
+        "name": "Kepler-160 c",
+        "radius": 3.85
+    },
+    {
+        "name": "Kepler-1495 b",
+        "radius": 3.85
+    },
+    {
+        "name": "Kepler-729 b",
+        "radius": 3.82
+    },
+    {
+        "name": "Kepler-279 b",
+        "radius": 3.82
+    },
+    {
+        "name": "Kepler-1769 b",
+        "radius": 3.81
+    },
+    {
+        "name": "Kepler-547 b",
+        "radius": 3.8
+    },
+    {
+        "name": "Kepler-976 b",
+        "radius": 3.79
+    },
+    {
+        "name": "Kepler-1546 b",
+        "radius": 3.78
+    },
+    {
+        "name": "Kepler-1915 b",
+        "radius": 3.78
+    },
+    {
+        "name": "Kepler-1927 b",
+        "radius": 3.78
+    },
+    {
+        "name": "Kepler-552 b",
+        "radius": 3.77
+    },
+    {
+        "name": "Kepler-1225 b",
+        "radius": 3.76
+    },
+    {
+        "name": "Kepler-698 b",
+        "radius": 3.75
+    },
+    {
+        "name": "Kepler-1129 c",
+        "radius": 3.73
+    },
+    {
+        "name": "Kepler-1641 c",
+        "radius": 3.73
+    },
+    {
+        "name": "Kepler-1715 b",
+        "radius": 3.72
+    },
+    {
+        "name": "Kepler-89 c",
+        "radius": 3.72
+    },
+    {
+        "name": "Kepler-264 b",
+        "radius": 3.71
+    },
+    {
+        "name": "Kepler-1015 b",
+        "radius": 3.71
+    },
+    {
+        "name": "Kepler-1550 b",
+        "radius": 3.71
+    },
+    {
+        "name": "Kepler-1615 b",
+        "radius": 3.71
+    },
+    {
+        "name": "Kepler-276 c",
+        "radius": 3.7
+    },
+    {
+        "name": "Kepler-1747 b",
+        "radius": 3.7
+    },
+    {
+        "name": "Kepler-913 c",
+        "radius": 3.7
+    },
+    {
+        "name": "Kepler-1080 b",
+        "radius": 3.7
+    },
+    {
+        "name": "Kepler-799 c",
+        "radius": 3.69
+    },
+    {
+        "name": "Kepler-709 b",
+        "radius": 3.68
+    },
+    {
+        "name": "Kepler-288 d",
+        "radius": 3.68
+    },
+    {
+        "name": "Kepler-938 b",
+        "radius": 3.68
+    },
+    {
+        "name": "Kepler-742 b",
+        "radius": 3.67
+    },
+    {
+        "name": "Kepler-278 c",
+        "radius": 3.66
+    },
+    {
+        "name": "Kepler-302 b",
+        "radius": 3.65
+    },
+    {
+        "name": "Kepler-1492 b",
+        "radius": 3.65
+    },
+    {
+        "name": "Kepler-1144 b",
+        "radius": 3.64
+    },
+    {
+        "name": "Kepler-525 b",
+        "radius": 3.64
+    },
+    {
+        "name": "Kepler-79 c",
+        "radius": 3.63
+    },
+    {
+        "name": "Kepler-940 b",
+        "radius": 3.63
+    },
+    {
+        "name": "Kepler-92 b",
+        "radius": 3.63
+    },
+    {
+        "name": "Kepler-222 d",
+        "radius": 3.63
+    },
+    {
+        "name": "Kepler-650 b",
+        "radius": 3.62
+    },
+    {
+        "name": "Kepler-1038 b",
+        "radius": 3.61
+    },
+    {
+        "name": "Kepler-145 c",
+        "radius": 3.61
+    },
+    {
+        "name": "Kepler-347 c",
+        "radius": 3.61
+    },
+    {
+        "name": "Kepler-207 d",
+        "radius": 3.6
+    },
+    {
+        "name": "Kepler-391 c",
+        "radius": 3.6
+    },
+    {
+        "name": "Kepler-1767 b",
+        "radius": 3.59
+    },
+    {
+        "name": "Kepler-1946 b",
+        "radius": 3.59
+    },
+    {
+        "name": "Kepler-193 c",
+        "radius": 3.58
+    },
+    {
+        "name": "Kepler-221 e",
+        "radius": 3.58
+    },
+    {
+        "name": "Kepler-223 e",
+        "radius": 3.57
+    },
+    {
+        "name": "Kepler-656 b",
+        "radius": 3.57
+    },
+    {
+        "name": "Kepler-1775 b",
+        "radius": 3.56
+    },
+    {
+        "name": "Kepler-146 b",
+        "radius": 3.56
+    },
+    {
+        "name": "Kepler-194 c",
+        "radius": 3.56
+    },
+    {
+        "name": "Kepler-967 c",
+        "radius": 3.56
+    },
+    {
+        "name": "Kepler-119 b",
+        "radius": 3.55
+    },
+    {
+        "name": "Kepler-1786 b",
+        "radius": 3.55
+    },
+    {
+        "name": "Kepler-33 e",
+        "radius": 3.55
+    },
+    {
+        "name": "Kepler-219 d",
+        "radius": 3.55
+    },
+    {
+        "name": "Kepler-1674 b",
+        "radius": 3.54
+    },
+    {
+        "name": "Kepler-36 c",
+        "radius": 3.54
+    },
+    {
+        "name": "Kepler-645 b",
+        "radius": 3.54
+    },
+    {
+        "name": "Kepler-464 b",
+        "radius": 3.53
+    },
+    {
+        "name": "Kepler-715 b",
+        "radius": 3.52
+    },
+    {
+        "name": "Kepler-1294 b",
+        "radius": 3.52
+    },
+    {
+        "name": "Kepler-1325 b",
+        "radius": 3.52
+    },
+    {
+        "name": "Kepler-774 b",
+        "radius": 3.51
+    },
+    {
+        "name": "Kepler-199 c",
+        "radius": 3.51
+    },
+    {
+        "name": "Kepler-483 b",
+        "radius": 3.49
+    },
+    {
+        "name": "Kepler-318 c",
+        "radius": 3.48
+    },
+    {
+        "name": "Kepler-411 c",
+        "radius": 3.47
+    },
+    {
+        "name": "Kepler-1764 b",
+        "radius": 3.46
+    },
+    {
+        "name": "Kepler-590 b",
+        "radius": 3.46
+    },
+    {
+        "name": "Kepler-223 d",
+        "radius": 3.46
+    },
+    {
+        "name": "Kepler-411 d",
+        "radius": 3.46
+    },
+    {
+        "name": "Kepler-791 b",
+        "radius": 3.45
+    },
+    {
+        "name": "Kepler-1872 b",
+        "radius": 3.45
+    },
+    {
+        "name": "Kepler-1773 b",
+        "radius": 3.44
+    },
+    {
+        "name": "Kepler-1024 b",
+        "radius": 3.44
+    },
+    {
+        "name": "Kepler-1090 c",
+        "radius": 3.44
+    },
+    {
+        "name": "Kepler-148 c",
+        "radius": 3.44
+    },
+    {
+        "name": "Kepler-722 c",
+        "radius": 3.43
+    },
+    {
+        "name": "Kepler-24 b",
+        "radius": 3.43
+    },
+    {
+        "name": "Kepler-802 b",
+        "radius": 3.43
+    },
+    {
+        "name": "Kepler-965 b",
+        "radius": 3.43
+    },
+    {
+        "name": "Kepler-1868 b",
+        "radius": 3.43
+    },
+    {
+        "name": "Kepler-275 c",
+        "radius": 3.42
+    },
+    {
+        "name": "Kepler-264 c",
+        "radius": 3.42
+    },
+    {
+        "name": "Kepler-150 c",
+        "radius": 3.42
+    },
+    {
+        "name": "Kepler-687 b",
+        "radius": 3.41
+    },
+    {
+        "name": "Kepler-1801 b",
+        "radius": 3.41
+    },
+    {
+        "name": "Kepler-1230 b",
+        "radius": 3.41
+    },
+    {
+        "name": "Kepler-1700 b",
+        "radius": 3.41
+    },
+    {
+        "name": "Kepler-11 g",
+        "radius": 3.4
+    },
+    {
+        "name": "Kepler-1068 b",
+        "radius": 3.4
+    },
+    {
+        "name": "Kepler-79 b",
+        "radius": 3.39
+    },
+    {
+        "name": "Kepler-937 b",
+        "radius": 3.39
+    },
+    {
+        "name": "Kepler-1316 b",
+        "radius": 3.39
+    },
+    {
+        "name": "Kepler-692 b",
+        "radius": 3.38
+    },
+    {
+        "name": "Kepler-924 b",
+        "radius": 3.38
+    },
+    {
+        "name": "Kepler-346 c",
+        "radius": 3.37
+    },
+    {
+        "name": "Kepler-1094 b",
+        "radius": 3.37
+    },
+    {
+        "name": "Kepler-462 b",
+        "radius": 3.37
+    },
+    {
+        "name": "Kepler-90 f",
+        "radius": 3.37
+    },
+    {
+        "name": "Kepler-230 b",
+        "radius": 3.36
+    },
+    {
+        "name": "Kepler-340 c",
+        "radius": 3.36
+    },
+    {
+        "name": "Kepler-1128 b",
+        "radius": 3.36
+    },
+    {
+        "name": "Kepler-391 b",
+        "radius": 3.36
+    },
+    {
+        "name": "Kepler-222 b",
+        "radius": 3.36
+    },
+    {
+        "name": "Kepler-287 c",
+        "radius": 3.35
+    },
+    {
+        "name": "Kepler-1458 b",
+        "radius": 3.35
+    },
+    {
+        "name": "Kepler-993 b",
+        "radius": 3.34
+    },
+    {
+        "name": "Kepler-1270 b",
+        "radius": 3.34
+    },
+    {
+        "name": "Kepler-582 b",
+        "radius": 3.34
+    },
+    {
+        "name": "Kepler-978 b",
+        "radius": 3.33
+    },
+    {
+        "name": "Kepler-1678 b",
+        "radius": 3.33
+    },
+    {
+        "name": "Kepler-194 d",
+        "radius": 3.33
+    },
+    {
+        "name": "Kepler-103 b",
+        "radius": 3.33
+    },
+    {
+        "name": "Kepler-234 c",
+        "radius": 3.32
+    },
+    {
+        "name": "Kepler-835 b",
+        "radius": 3.32
+    },
+    {
+        "name": "Kepler-396 b",
+        "radius": 3.32
+    },
+    {
+        "name": "Kepler-893 b",
+        "radius": 3.31
+    },
+    {
+        "name": "Kepler-1740 b",
+        "radius": 3.29
+    },
+    {
+        "name": "Kepler-941 b",
+        "radius": 3.29
+    },
+    {
+        "name": "Kepler-350 c",
+        "radius": 3.29
+    },
+    {
+        "name": "Kepler-178 d",
+        "radius": 3.29
+    },
+    {
+        "name": "Kepler-219 b",
+        "radius": 3.29
+    },
+    {
+        "name": "Kepler-1018 b",
+        "radius": 3.28
+    },
+    {
+        "name": "Kepler-1242 b",
+        "radius": 3.28
+    },
+    {
+        "name": "Kepler-1851 b",
+        "radius": 3.28
+    },
+    {
+        "name": "Kepler-180 c",
+        "radius": 3.28
+    },
+    {
+        "name": "Kepler-182 c",
+        "radius": 3.28
+    },
+    {
+        "name": "Kepler-1533 b",
+        "radius": 3.28
+    },
+    {
+        "name": "Kepler-498 b",
+        "radius": 3.27
+    },
+    {
+        "name": "Kepler-533 b",
+        "radius": 3.27
+    },
+    {
+        "name": "Kepler-116 b",
+        "radius": 3.26
+    },
+    {
+        "name": "Kepler-1065 b",
+        "radius": 3.26
+    },
+    {
+        "name": "Kepler-1779 b",
+        "radius": 3.26
+    },
+    {
+        "name": "Kepler-1069 b",
+        "radius": 3.26
+    },
+    {
+        "name": "Kepler-985 b",
+        "radius": 3.26
+    },
+    {
+        "name": "Kepler-1719 b",
+        "radius": 3.26
+    },
+    {
+        "name": "Kepler-172 e",
+        "radius": 3.26
+    },
+    {
+        "name": "Kepler-1494 b",
+        "radius": 3.26
+    },
+    {
+        "name": "Kepler-232 b",
+        "radius": 3.25
+    },
+    {
+        "name": "Kepler-1051 b",
+        "radius": 3.25
+    },
+    {
+        "name": "Kepler-143 c",
+        "radius": 3.25
+    },
+    {
+        "name": "Kepler-630 b",
+        "radius": 3.25
+    },
+    {
+        "name": "Kepler-94 b",
+        "radius": 3.25
+    },
+    {
+        "name": "Kepler-739 b",
+        "radius": 3.24
+    },
+    {
+        "name": "Kepler-751 b",
+        "radius": 3.24
+    },
+    {
+        "name": "Kepler-474 b",
+        "radius": 3.24
+    },
+    {
+        "name": "Kepler-305 b",
+        "radius": 3.24
+    },
+    {
+        "name": "Kepler-1296 b",
+        "radius": 3.24
+    },
+    {
+        "name": "Kepler-162 c",
+        "radius": 3.24
+    },
+    {
+        "name": "Kepler-1554 b",
+        "radius": 3.24
+    },
+    {
+        "name": "Kepler-1789 b",
+        "radius": 3.24
+    },
+    {
+        "name": "Kepler-1635 b",
+        "radius": 3.24
+    },
+    {
+        "name": "Kepler-1143 c",
+        "radius": 3.23
+    },
+    {
+        "name": "Kepler-310 c",
+        "radius": 3.22
+    },
+    {
+        "name": "Kepler-1804 b",
+        "radius": 3.22
+    },
+    {
+        "name": "Kepler-210 c",
+        "radius": 3.22
+    },
+    {
+        "name": "Kepler-1508 b",
+        "radius": 3.22
+    },
+    {
+        "name": "Kepler-305 c",
+        "radius": 3.21
+    },
+    {
+        "name": "Kepler-1039 b",
+        "radius": 3.21
+    },
+    {
+        "name": "Kepler-1085 c",
+        "radius": 3.21
+    },
+    {
+        "name": "Kepler-1835 b",
+        "radius": 3.21
+    },
+    {
+        "name": "Kepler-1219 b",
+        "radius": 3.21
+    },
+    {
+        "name": "Kepler-399 d",
+        "radius": 3.21
+    },
+    {
+        "name": "Kepler-610 b",
+        "radius": 3.21
+    },
+    {
+        "name": "Kepler-274 c",
+        "radius": 3.21
+    },
+    {
+        "name": "Kepler-716 b",
+        "radius": 3.2
+    },
+    {
+        "name": "Kepler-11 d",
+        "radius": 3.2
+    },
+    {
+        "name": "Kepler-279 d",
+        "radius": 3.2
+    },
+    {
+        "name": "Kepler-368 b",
+        "radius": 3.2
+    },
+    {
+        "name": "Kepler-1407 b",
+        "radius": 3.2
+    },
+    {
+        "name": "Kepler-163 c",
+        "radius": 3.2
+    },
+    {
+        "name": "Kepler-627 b",
+        "radius": 3.2
+    },
+    {
+        "name": "Kepler-1636 b",
+        "radius": 3.2
+    },
+    {
+        "name": "Kepler-1744 b",
+        "radius": 3.19
+    },
+    {
+        "name": "Kepler-873 b",
+        "radius": 3.19
+    },
+    {
+        "name": "Kepler-351 c",
+        "radius": 3.19
+    },
+    {
+        "name": "Kepler-351 b",
+        "radius": 3.19
+    },
+    {
+        "name": "Kepler-1452 b",
+        "radius": 3.19
+    },
+    {
+        "name": "Kepler-734 b",
+        "radius": 3.18
+    },
+    {
+        "name": "Kepler-325 c",
+        "radius": 3.18
+    },
+    {
+        "name": "Kepler-987 b",
+        "radius": 3.18
+    },
+    {
+        "name": "Kepler-150 e",
+        "radius": 3.18
+    },
+    {
+        "name": "Kepler-563 b",
+        "radius": 3.18
+    },
+    {
+        "name": "Kepler-1765 b",
+        "radius": 3.17
+    },
+    {
+        "name": "Kepler-1774 b",
+        "radius": 3.17
+    },
+    {
+        "name": "Kepler-711 b",
+        "radius": 3.16
+    },
+    {
+        "name": "Kepler-859 b",
+        "radius": 3.16
+    },
+    {
+        "name": "Kepler-565 b",
+        "radius": 3.16
+    },
+    {
+        "name": "Kepler-1883 b",
+        "radius": 3.16
+    },
+    {
+        "name": "Kepler-84 c",
+        "radius": 3.15
+    },
+    {
+        "name": "Kepler-1778 b",
+        "radius": 3.15
+    },
+    {
+        "name": "Kepler-1814 b",
+        "radius": 3.15
+    },
+    {
+        "name": "Kepler-224 c",
+        "radius": 3.15
+    },
+    {
+        "name": "Kepler-251 d",
+        "radius": 3.14
+    },
+    {
+        "name": "Kepler-277 b",
+        "radius": 3.14
+    },
+    {
+        "name": "Kepler-1011 b",
+        "radius": 3.14
+    },
+    {
+        "name": "Kepler-382 c",
+        "radius": 3.14
+    },
+    {
+        "name": "Kepler-463 b",
+        "radius": 3.14
+    },
+    {
+        "name": "Kepler-1540 b",
+        "radius": 3.14
+    },
+    {
+        "name": "Kepler-95 b",
+        "radius": 3.13
+    },
+    {
+        "name": "Kepler-728 b",
+        "radius": 3.13
+    },
+    {
+        "name": "Kepler-277 c",
+        "radius": 3.13
+    },
+    {
+        "name": "Kepler-809 b",
+        "radius": 3.13
+    },
+    {
+        "name": "Kepler-1083 b",
+        "radius": 3.13
+    },
+    {
+        "name": "Kepler-511 c",
+        "radius": 3.13
+    },
+    {
+        "name": "Kepler-234 b",
+        "radius": 3.12
+    },
+    {
+        "name": "Kepler-53 b",
+        "radius": 3.12
+    },
+    {
+        "name": "Kepler-255 c",
+        "radius": 3.12
+    },
+    {
+        "name": "Kepler-66 b",
+        "radius": 3.12
+    },
+    {
+        "name": "Kepler-385 c",
+        "radius": 3.12
+    },
+    {
+        "name": "Kepler-244 b",
+        "radius": 3.11
+    },
+    {
+        "name": "Kepler-476 b",
+        "radius": 3.11
+    },
+    {
+        "name": "Kepler-902 b",
+        "radius": 3.11
+    },
+    {
+        "name": "Kepler-955 b",
+        "radius": 3.11
+    },
+    {
+        "name": "Kepler-1411 b",
+        "radius": 3.11
+    },
+    {
+        "name": "Kepler-648 b",
+        "radius": 3.11
+    },
+    {
+        "name": "Kepler-665 b",
+        "radius": 3.1
+    },
+    {
+        "name": "Kepler-259 b",
+        "radius": 3.1
+    },
+    {
+        "name": "Kepler-874 b",
+        "radius": 3.1
+    },
+    {
+        "name": "Kepler-1255 b",
+        "radius": 3.1
+    },
+    {
+        "name": "Kepler-221 c",
+        "radius": 3.1
+    },
+    {
+        "name": "Kepler-110 c",
+        "radius": 3.09
+    },
+    {
+        "name": "Kepler-920 b",
+        "radius": 3.09
+    },
+    {
+        "name": "Kepler-1785 b",
+        "radius": 3.09
+    },
+    {
+        "name": "Kepler-346 b",
+        "radius": 3.09
+    },
+    {
+        "name": "Kepler-1937 b",
+        "radius": 3.09
+    },
+    {
+        "name": "Kepler-1676 b",
+        "radius": 3.09
+    },
+    {
+        "name": "Kepler-782 b",
+        "radius": 3.08
+    },
+    {
+        "name": "Kepler-1770 b",
+        "radius": 3.08
+    },
+    {
+        "name": "Kepler-146 c",
+        "radius": 3.08
+    },
+    {
+        "name": "Kepler-152 b",
+        "radius": 3.08
+    },
+    {
+        "name": "Kepler-657 b",
+        "radius": 3.08
+    },
+    {
+        "name": "Kepler-681 b",
+        "radius": 3.07
+    },
+    {
+        "name": "Kepler-712 b",
+        "radius": 3.07
+    },
+    {
+        "name": "Kepler-472 b",
+        "radius": 3.07
+    },
+    {
+        "name": "Kepler-812 b",
+        "radius": 3.07
+    },
+    {
+        "name": "Kepler-335 b",
+        "radius": 3.07
+    },
+    {
+        "name": "Kepler-598 c",
+        "radius": 3.07
+    },
+    {
+        "name": "Kepler-644 b",
+        "radius": 3.07
+    },
+    {
+        "name": "Kepler-238 d",
+        "radius": 3.06
+    },
+    {
+        "name": "Kepler-23 c",
+        "radius": 3.06
+    },
+    {
+        "name": "Kepler-896 b",
+        "radius": 3.06
+    },
+    {
+        "name": "Kepler-1102 b",
+        "radius": 3.06
+    },
+    {
+        "name": "Kepler-1538 b",
+        "radius": 3.06
+    },
+    {
+        "name": "Kepler-1627 b",
+        "radius": 3.06
+    },
+    {
+        "name": "Kepler-254 d",
+        "radius": 3.05
+    },
+    {
+        "name": "Kepler-258 c",
+        "radius": 3.05
+    },
+    {
+        "name": "Kepler-871 b",
+        "radius": 3.05
+    },
+    {
+        "name": "Kepler-1001 b",
+        "radius": 3.05
+    },
+    {
+        "name": "Kepler-170 b",
+        "radius": 3.05
+    },
+    {
+        "name": "Kepler-218 c",
+        "radius": 3.05
+    },
+    {
+        "name": "Kepler-154 c",
+        "radius": 3.05
+    },
+    {
+        "name": "Kepler-293 b",
+        "radius": 3.04
+    },
+    {
+        "name": "Kepler-839 b",
+        "radius": 3.04
+    },
+    {
+        "name": "Kepler-1780 b",
+        "radius": 3.04
+    },
+    {
+        "name": "Kepler-1681 b",
+        "radius": 3.04
+    },
+    {
+        "name": "Kepler-1714 b",
+        "radius": 3.04
+    },
+    {
+        "name": "Kepler-193 b",
+        "radius": 3.04
+    },
+    {
+        "name": "Kepler-245 d",
+        "radius": 3.03
+    },
+    {
+        "name": "Kepler-275 d",
+        "radius": 3.02
+    },
+    {
+        "name": "Kepler-800 b",
+        "radius": 3.02
+    },
+    {
+        "name": "Kepler-1792 b",
+        "radius": 3.02
+    },
+    {
+        "name": "Kepler-521 b",
+        "radius": 3.02
+    },
+    {
+        "name": "Kepler-405 c",
+        "radius": 3.02
+    },
+    {
+        "name": "Kepler-242 b",
+        "radius": 3.01
+    },
+    {
+        "name": "Kepler-242 c",
+        "radius": 3.01
+    },
+    {
+        "name": "Kepler-259 c",
+        "radius": 3.01
+    },
+    {
+        "name": "Kepler-79 e",
+        "radius": 3.01
+    },
+    {
+        "name": "Kepler-805 b",
+        "radius": 3.01
+    },
+    {
+        "name": "Kepler-307 b",
+        "radius": 3.01
+    },
+    {
+        "name": "Kepler-1137 b",
+        "radius": 3.01
+    },
+    {
+        "name": "Kepler-811 b",
+        "radius": 3
+    },
+    {
+        "name": "Kepler-1748 b",
+        "radius": 3
+    },
+    {
+        "name": "Kepler-325 b",
+        "radius": 3
+    },
+    {
+        "name": "Kepler-171 c",
+        "radius": 3
+    },
+    {
+        "name": "Kepler-151 b",
+        "radius": 3
+    },
+    {
+        "name": "Kepler-894 b",
+        "radius": 2.99
+    },
+    {
+        "name": "Kepler-178 c",
+        "radius": 2.99
+    },
+    {
+        "name": "Kepler-596 b",
+        "radius": 2.99
+    },
+    {
+        "name": "Kepler-20 c",
+        "radius": 2.99
+    },
+    {
+        "name": "Kepler-212 c",
+        "radius": 2.99
+    },
+    {
+        "name": "Kepler-1605 b",
+        "radius": 2.99
+    },
+    {
+        "name": "Kepler-143 b",
+        "radius": 2.99
+    },
+    {
+        "name": "Kepler-758 b",
+        "radius": 2.98
+    },
+    {
+        "name": "Kepler-266 b",
+        "radius": 2.98
+    },
+    {
+        "name": "Kepler-864 b",
+        "radius": 2.98
+    },
+    {
+        "name": "Kepler-1797 b",
+        "radius": 2.98
+    },
+    {
+        "name": "Kepler-147 c",
+        "radius": 2.98
+    },
+    {
+        "name": "Kepler-130 c",
+        "radius": 2.98
+    },
+    {
+        "name": "Kepler-549 b",
+        "radius": 2.98
+    },
+    {
+        "name": "Kepler-189 c",
+        "radius": 2.98
+    },
+    {
+        "name": "Kepler-29 b",
+        "radius": 2.98
+    },
+    {
+        "name": "Kepler-1776 b",
+        "radius": 2.97
+    },
+    {
+        "name": "Kepler-569 b",
+        "radius": 2.97
+    },
+    {
+        "name": "Kepler-593 b",
+        "radius": 2.97
+    },
+    {
+        "name": "Kepler-221 d",
+        "radius": 2.97
+    },
+    {
+        "name": "Kepler-1697 b",
+        "radius": 2.97
+    },
+    {
+        "name": "Kepler-248 b",
+        "radius": 2.96
+    },
+    {
+        "name": "Kepler-758 d",
+        "radius": 2.96
+    },
+    {
+        "name": "Kepler-280 c",
+        "radius": 2.96
+    },
+    {
+        "name": "Kepler-319 c",
+        "radius": 2.96
+    },
+    {
+        "name": "Kepler-358 b",
+        "radius": 2.96
+    },
+    {
+        "name": "Kepler-1853 b",
+        "radius": 2.96
+    },
+    {
+        "name": "Kepler-188 c",
+        "radius": 2.96
+    },
+    {
+        "name": "Kepler-152 c",
+        "radius": 2.96
+    },
+    {
+        "name": "Kepler-1600 b",
+        "radius": 2.96
+    },
+    {
+        "name": "Kepler-662 b",
+        "radius": 2.95
+    },
+    {
+        "name": "Kepler-253 d",
+        "radius": 2.95
+    },
+    {
+        "name": "Kepler-1097 b",
+        "radius": 2.95
+    },
+    {
+        "name": "Kepler-430 b",
+        "radius": 2.95
+    },
+    {
+        "name": "Kepler-358 c",
+        "radius": 2.95
+    },
+    {
+        "name": "Kepler-589 b",
+        "radius": 2.95
+    },
+    {
+        "name": "Kepler-169 f",
+        "radius": 2.95
+    },
+    {
+        "name": "Kepler-216 c",
+        "radius": 2.95
+    },
+    {
+        "name": "Kepler-105 b",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-727 b",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-58 c",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-837 b",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-979 b",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-1050 b",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-1204 b",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-1304 b",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-385 b",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-168 c",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-623 b",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-209 c",
+        "radius": 2.94
+    },
+    {
+        "name": "Kepler-995 b",
+        "radius": 2.93
+    },
+    {
+        "name": "Kepler-247 d",
+        "radius": 2.92
+    },
+    {
+        "name": "Kepler-58 d",
+        "radius": 2.92
+    },
+    {
+        "name": "Kepler-869 b",
+        "radius": 2.92
+    },
+    {
+        "name": "Kepler-949 b",
+        "radius": 2.92
+    },
+    {
+        "name": "Kepler-926 b",
+        "radius": 2.92
+    },
+    {
+        "name": "Kepler-1359 b",
+        "radius": 2.92
+    },
+    {
+        "name": "Kepler-196 d",
+        "radius": 2.92
+    },
+    {
+        "name": "Kepler-198 c",
+        "radius": 2.91
+    },
+    {
+        "name": "Kepler-735 b",
+        "radius": 2.9
+    },
+    {
+        "name": "Kepler-1659 c",
+        "radius": 2.9
+    },
+    {
+        "name": "Kepler-1907 c",
+        "radius": 2.9
+    },
+    {
+        "name": "Kepler-576 b",
+        "radius": 2.9
+    },
+    {
+        "name": "Kepler-183 c",
+        "radius": 2.9
+    },
+    {
+        "name": "Kepler-199 b",
+        "radius": 2.9
+    },
+    {
+        "name": "Kepler-385 d",
+        "radius": 2.9
+    },
+    {
+        "name": "Kepler-107 e",
+        "radius": 2.89
+    },
+    {
+        "name": "Kepler-344 c",
+        "radius": 2.89
+    },
+    {
+        "name": "Kepler-1125 b",
+        "radius": 2.89
+    },
+    {
+        "name": "Kepler-1684 b",
+        "radius": 2.89
+    },
+    {
+        "name": "Kepler-586 b",
+        "radius": 2.89
+    },
+    {
+        "name": "Kepler-172 c",
+        "radius": 2.89
+    },
+    {
+        "name": "Kepler-631 b",
+        "radius": 2.89
+    },
+    {
+        "name": "Kepler-1490 b",
+        "radius": 2.89
+    },
+    {
+        "name": "Kepler-1536 b",
+        "radius": 2.89
+    },
+    {
+        "name": "Kepler-287 b",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-11 c",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-347 b",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-1050 c",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-1267 b",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-1369 b",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-1364 b",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-178 b",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-626 b",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-1086 c",
+        "radius": 2.88
+    },
+    {
+        "name": "Kepler-106 e",
+        "radius": 2.87
+    },
+    {
+        "name": "Kepler-530 b",
+        "radius": 2.87
+    },
+    {
+        "name": "Kepler-588 b",
+        "radius": 2.87
+    },
+    {
+        "name": "Kepler-187 c",
+        "radius": 2.87
+    },
+    {
+        "name": "Kepler-465 b",
+        "radius": 2.87
+    },
+    {
+        "name": "Kepler-760 b",
+        "radius": 2.86
+    },
+    {
+        "name": "Kepler-480 b",
+        "radius": 2.86
+    },
+    {
+        "name": "Kepler-84 b",
+        "radius": 2.86
+    },
+    {
+        "name": "Kepler-1717 b",
+        "radius": 2.86
+    },
+    {
+        "name": "Kepler-545 b",
+        "radius": 2.86
+    },
+    {
+        "name": "Kepler-661 b",
+        "radius": 2.85
+    },
+    {
+        "name": "Kepler-722 b",
+        "radius": 2.85
+    },
+    {
+        "name": "Kepler-819 b",
+        "radius": 2.85
+    },
+    {
+        "name": "Kepler-314 c",
+        "radius": 2.85
+    },
+    {
+        "name": "Kepler-990 b",
+        "radius": 2.85
+    },
+    {
+        "name": "Kepler-540 b",
+        "radius": 2.85
+    },
+    {
+        "name": "Kepler-619 b",
+        "radius": 2.85
+    },
+    {
+        "name": "Kepler-170 c",
+        "radius": 2.85
+    },
+    {
+        "name": "Kepler-963 b",
+        "radius": 2.85
+    },
+    {
+        "name": "Kepler-860 b",
+        "radius": 2.84
+    },
+    {
+        "name": "Kepler-956 b",
+        "radius": 2.84
+    },
+    {
+        "name": "Kepler-1423 b",
+        "radius": 2.84
+    },
+    {
+        "name": "Kepler-90 d",
+        "radius": 2.84
+    },
+    {
+        "name": "Kepler-164 c",
+        "radius": 2.84
+    },
+    {
+        "name": "Kepler-1467 b",
+        "radius": 2.84
+    },
+    {
+        "name": "Kepler-1524 b",
+        "radius": 2.84
+    },
+    {
+        "name": "Kepler-227 c",
+        "radius": 2.83
+    },
+    {
+        "name": "Kepler-290 c",
+        "radius": 2.83
+    },
+    {
+        "name": "Kepler-1757 b",
+        "radius": 2.83
+    },
+    {
+        "name": "Kepler-26 b",
+        "radius": 2.83
+    },
+    {
+        "name": "Kepler-647 c",
+        "radius": 2.83
+    },
+    {
+        "name": "Kepler-672 b",
+        "radius": 2.82
+    },
+    {
+        "name": "Kepler-261 c",
+        "radius": 2.82
+    },
+    {
+        "name": "Kepler-1800 b",
+        "radius": 2.82
+    },
+    {
+        "name": "Kepler-1405 b",
+        "radius": 2.82
+    },
+    {
+        "name": "Kepler-153 b",
+        "radius": 2.82
+    },
+    {
+        "name": "Kepler-616 b",
+        "radius": 2.82
+    },
+    {
+        "name": "Kepler-33 c",
+        "radius": 2.82
+    },
+    {
+        "name": "Kepler-297 b",
+        "radius": 2.81
+    },
+    {
+        "name": "Kepler-304 b",
+        "radius": 2.81
+    },
+    {
+        "name": "Kepler-892 b",
+        "radius": 2.81
+    },
+    {
+        "name": "Kepler-1006 b",
+        "radius": 2.81
+    },
+    {
+        "name": "Kepler-364 c",
+        "radius": 2.81
+    },
+    {
+        "name": "Kepler-1811 b",
+        "radius": 2.81
+    },
+    {
+        "name": "Kepler-531 b",
+        "radius": 2.81
+    },
+    {
+        "name": "Kepler-1518 b",
+        "radius": 2.81
+    },
+    {
+        "name": "Kepler-1738 b",
+        "radius": 2.8
+    },
+    {
+        "name": "Kepler-1670 b",
+        "radius": 2.8
+    },
+    {
+        "name": "Kepler-342 d",
+        "radius": 2.8
+    },
+    {
+        "name": "Kepler-350 d",
+        "radius": 2.8
+    },
+    {
+        "name": "Kepler-606 b",
+        "radius": 2.8
+    },
+    {
+        "name": "Kepler-320 c",
+        "radius": 2.8
+    },
+    {
+        "name": "Kepler-1920 b",
+        "radius": 2.8
+    },
+    {
+        "name": "Kepler-1733 b",
+        "radius": 2.79
+    },
+    {
+        "name": "Kepler-1175 b",
+        "radius": 2.79
+    },
+    {
+        "name": "Kepler-123 b",
+        "radius": 2.79
+    },
+    {
+        "name": "Kepler-1090 b",
+        "radius": 2.79
+    },
+    {
+        "name": "Kepler-663 b",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-115 c",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-1140 b",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-1261 b",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-517 b",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-512 b",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-1709 b",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-573 b",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-583 b",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-29 c",
+        "radius": 2.78
+    },
+    {
+        "name": "Kepler-228 c",
+        "radius": 2.77
+    },
+    {
+        "name": "Kepler-684 b",
+        "radius": 2.77
+    },
+    {
+        "name": "Kepler-781 b",
+        "radius": 2.77
+    },
+    {
+        "name": "Kepler-838 b",
+        "radius": 2.77
+    },
+    {
+        "name": "Kepler-53 d",
+        "radius": 2.76
+    },
+    {
+        "name": "Kepler-96 b",
+        "radius": 2.76
+    },
+    {
+        "name": "Kepler-192 b",
+        "radius": 2.76
+    },
+    {
+        "name": "Kepler-183 b",
+        "radius": 2.76
+    },
+    {
+        "name": "Kepler-600 b",
+        "radius": 2.76
+    },
+    {
+        "name": "Kepler-175 c",
+        "radius": 2.76
+    },
+    {
+        "name": "Kepler-342 c",
+        "radius": 2.76
+    },
+    {
+        "name": "Kepler-664 b",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-306 e",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-903 c",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-1077 b",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-999 b",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-436 c",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-142 c",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-603 b",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-1720 b",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-466 b",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-1545 b",
+        "radius": 2.75
+    },
+    {
+        "name": "Kepler-733 b",
+        "radius": 2.74
+    },
+    {
+        "name": "Kepler-257 b",
+        "radius": 2.74
+    },
+    {
+        "name": "Kepler-843 b",
+        "radius": 2.74
+    },
+    {
+        "name": "Kepler-863 b",
+        "radius": 2.74
+    },
+    {
+        "name": "Kepler-461 b",
+        "radius": 2.74
+    },
+    {
+        "name": "Kepler-171 b",
+        "radius": 2.74
+    },
+    {
+        "name": "Kepler-150 d",
+        "radius": 2.74
+    },
+    {
+        "name": "Kepler-1551 b",
+        "radius": 2.74
+    },
+    {
+        "name": "Kepler-268 c",
+        "radius": 2.73
+    },
+    {
+        "name": "Kepler-276 b",
+        "radius": 2.73
+    },
+    {
+        "name": "Kepler-970 b",
+        "radius": 2.73
+    },
+    {
+        "name": "Kepler-1881 b",
+        "radius": 2.73
+    },
+    {
+        "name": "Kepler-414 c",
+        "radius": 2.73
+    },
+    {
+        "name": "Kepler-251 c",
+        "radius": 2.72
+    },
+    {
+        "name": "Kepler-945 b",
+        "radius": 2.72
+    },
+    {
+        "name": "Kepler-982 b",
+        "radius": 2.72
+    },
+    {
+        "name": "Kepler-1196 b",
+        "radius": 2.72
+    },
+    {
+        "name": "Kepler-1142 b",
+        "radius": 2.72
+    },
+    {
+        "name": "Kepler-1318 b",
+        "radius": 2.72
+    },
+    {
+        "name": "Kepler-133 c",
+        "radius": 2.72
+    },
+    {
+        "name": "Kepler-640 b",
+        "radius": 2.72
+    },
+    {
+        "name": "Kepler-790 b",
+        "radius": 2.71
+    },
+    {
+        "name": "Kepler-307 c",
+        "radius": 2.71
+    },
+    {
+        "name": "Kepler-416 b",
+        "radius": 2.71
+    },
+    {
+        "name": "Kepler-1673 b",
+        "radius": 2.71
+    },
+    {
+        "name": "Kepler-635 b",
+        "radius": 2.71
+    },
+    {
+        "name": "Kepler-204 b",
+        "radius": 2.71
+    },
+    {
+        "name": "Kepler-457 d",
+        "radius": 2.71
+    },
+    {
+        "name": "Kepler-1666 c",
+        "radius": 2.7
+    },
+    {
+        "name": "Kepler-752 b",
+        "radius": 2.7
+    },
+    {
+        "name": "Kepler-1036 b",
+        "radius": 2.7
+    },
+    {
+        "name": "Kepler-602 b",
+        "radius": 2.7
+    },
+    {
+        "name": "Kepler-172 d",
+        "radius": 2.7
+    },
+    {
+        "name": "Kepler-164 d",
+        "radius": 2.7
+    },
+    {
+        "name": "Kepler-198 b",
+        "radius": 2.7
+    },
+    {
+        "name": "Kepler-244 d",
+        "radius": 2.69
+    },
+    {
+        "name": "Kepler-1202 b",
+        "radius": 2.69
+    },
+    {
+        "name": "Kepler-67 b",
+        "radius": 2.69
+    },
+    {
+        "name": "Kepler-399 c",
+        "radius": 2.69
+    },
+    {
+        "name": "Kepler-1874 b",
+        "radius": 2.69
+    },
+    {
+        "name": "Kepler-191 d",
+        "radius": 2.69
+    },
+    {
+        "name": "Kepler-218 d",
+        "radius": 2.69
+    },
+    {
+        "name": "Kepler-1530 c",
+        "radius": 2.69
+    },
+    {
+        "name": "Kepler-721 b",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-299 c",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-475 b",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-284 c",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-1817 b",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-177 b",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-549 c",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-223 c",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-201 b",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-1549 b",
+        "radius": 2.68
+    },
+    {
+        "name": "Kepler-238 f",
+        "radius": 2.67
+    },
+    {
+        "name": "Kepler-244 c",
+        "radius": 2.67
+    },
+    {
+        "name": "Kepler-289 b",
+        "radius": 2.67
+    },
+    {
+        "name": "Kepler-1677 b",
+        "radius": 2.67
+    },
+    {
+        "name": "Kepler-1171 b",
+        "radius": 2.67
+    },
+    {
+        "name": "Kepler-1187 b",
+        "radius": 2.67
+    },
+    {
+        "name": "Kepler-581 b",
+        "radius": 2.67
+    },
+    {
+        "name": "Kepler-1539 b",
+        "radius": 2.67
+    },
+    {
+        "name": "Kepler-1926 b",
+        "radius": 2.67
+    },
+    {
+        "name": "Kepler-679 b",
+        "radius": 2.66
+    },
+    {
+        "name": "Kepler-704 b",
+        "radius": 2.66
+    },
+    {
+        "name": "Kepler-717 b",
+        "radius": 2.66
+    },
+    {
+        "name": "Kepler-355 c",
+        "radius": 2.66
+    },
+    {
+        "name": "Kepler-1057 b",
+        "radius": 2.66
+    },
+    {
+        "name": "Kepler-1309 b",
+        "radius": 2.66
+    },
+    {
+        "name": "Kepler-1842 b",
+        "radius": 2.66
+    },
+    {
+        "name": "Kepler-182 b",
+        "radius": 2.66
+    },
+    {
+        "name": "Kepler-655 b",
+        "radius": 2.66
+    },
+    {
+        "name": "Kepler-229 b",
+        "radius": 2.65
+    },
+    {
+        "name": "Kepler-676 b",
+        "radius": 2.65
+    },
+    {
+        "name": "Kepler-977 b",
+        "radius": 2.65
+    },
+    {
+        "name": "Kepler-121 b",
+        "radius": 2.65
+    },
+    {
+        "name": "Kepler-335 c",
+        "radius": 2.65
+    },
+    {
+        "name": "Kepler-106 c",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-241 c",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-251 e",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-310 d",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-121 c",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-1211 b",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-1820 b",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-26 c",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-1266 b",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-1663 b",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-558 b",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-184 b",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-1468 d",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-1486 b",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-1639 b",
+        "radius": 2.64
+    },
+    {
+        "name": "Kepler-48 c",
+        "radius": 2.63
+    },
+    {
+        "name": "Kepler-298 d",
+        "radius": 2.63
+    },
+    {
+        "name": "Kepler-372 c",
+        "radius": 2.63
+    },
+    {
+        "name": "Kepler-506 b",
+        "radius": 2.63
+    },
+    {
+        "name": "Kepler-139 c",
+        "radius": 2.63
+    },
+    {
+        "name": "Kepler-192 c",
+        "radius": 2.63
+    },
+    {
+        "name": "Kepler-708 b",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-1729 b",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-284 b",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-312 c",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-325 d",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-1060 b",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-417 c",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-139 b",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-532 b",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-1710 b",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-90 e",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-1630 b",
+        "radius": 2.62
+    },
+    {
+        "name": "Kepler-416 c",
+        "radius": 2.61
+    },
+    {
+        "name": "Kepler-338 d",
+        "radius": 2.61
+    },
+    {
+        "name": "Kepler-1354 b",
+        "radius": 2.61
+    },
+    {
+        "name": "Kepler-1336 b",
+        "radius": 2.61
+    },
+    {
+        "name": "Kepler-104 d",
+        "radius": 2.61
+    },
+    {
+        "name": "Kepler-203 b",
+        "radius": 2.61
+    },
+    {
+        "name": "Kepler-274 b",
+        "radius": 2.61
+    },
+    {
+        "name": "Kepler-726 b",
+        "radius": 2.6
+    },
+    {
+        "name": "Kepler-836 b",
+        "radius": 2.6
+    },
+    {
+        "name": "Kepler-324 c",
+        "radius": 2.6
+    },
+    {
+        "name": "Kepler-500 b",
+        "radius": 2.6
+    },
+    {
+        "name": "Kepler-153 c",
+        "radius": 2.6
+    },
+    {
+        "name": "Kepler-561 c",
+        "radius": 2.6
+    },
+    {
+        "name": "Kepler-1484 b",
+        "radius": 2.6
+    },
+    {
+        "name": "Kepler-233 b",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-766 b",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-482 b",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-1675 b",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-1777 b",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-1790 b",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-1237 b",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-450 c",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-172 b",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-20 d",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-1967 b",
+        "radius": 2.59
+    },
+    {
+        "name": "Kepler-254 c",
+        "radius": 2.58
+    },
+    {
+        "name": "Kepler-875 b",
+        "radius": 2.58
+    },
+    {
+        "name": "Kepler-481 b",
+        "radius": 2.58
+    },
+    {
+        "name": "Kepler-1103 b",
+        "radius": 2.58
+    },
+    {
+        "name": "Kepler-1871 b",
+        "radius": 2.58
+    },
+    {
+        "name": "Kepler-176 c",
+        "radius": 2.58
+    },
+    {
+        "name": "Kepler-1453 b",
+        "radius": 2.58
+    },
+    {
+        "name": "Kepler-968 d",
+        "radius": 2.58
+    },
+    {
+        "name": "Kepler-1521 b",
+        "radius": 2.58
+    },
+    {
+        "name": "Kepler-1727 b",
+        "radius": 2.57
+    },
+    {
+        "name": "Kepler-110 b",
+        "radius": 2.57
+    },
+    {
+        "name": "Kepler-1768 b",
+        "radius": 2.57
+    },
+    {
+        "name": "Kepler-344 b",
+        "radius": 2.57
+    },
+    {
+        "name": "Kepler-129 c",
+        "radius": 2.57
+    },
+    {
+        "name": "Kepler-1548 b",
+        "radius": 2.57
+    },
+    {
+        "name": "Kepler-1918 b",
+        "radius": 2.57
+    },
+    {
+        "name": "Kepler-1535 b",
+        "radius": 2.57
+    },
+    {
+        "name": "Kepler-401 d",
+        "radius": 2.57
+    },
+    {
+        "name": "Kepler-245 b",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-305 d",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-84 e",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-1073 b",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-1047 b",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-1690 b",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-1896 b",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-65 c",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-175 b",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-209 b",
+        "radius": 2.56
+    },
+    {
+        "name": "Kepler-226 c",
+        "radius": 2.55
+    },
+    {
+        "name": "Kepler-1026 b",
+        "radius": 2.55
+    },
+    {
+        "name": "Kepler-1101 b",
+        "radius": 2.55
+    },
+    {
+        "name": "Kepler-1183 b",
+        "radius": 2.55
+    },
+    {
+        "name": "Kepler-529 c",
+        "radius": 2.55
+    },
+    {
+        "name": "Kepler-599 b",
+        "radius": 2.55
+    },
+    {
+        "name": "Kepler-184 d",
+        "radius": 2.55
+    },
+    {
+        "name": "Kepler-1530 b",
+        "radius": 2.55
+    },
+    {
+        "name": "Kepler-109 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-265 c",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-263 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-294 c",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-958 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-961 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-1113 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-1682 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-125 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-1664 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-609 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-585 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-203 c",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-1570 b",
+        "radius": 2.54
+    },
+    {
+        "name": "Kepler-253 c",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-1731 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-1758 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-868 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-313 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-1791 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-25 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-1241 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-513 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-551 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-592 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-1567 b",
+        "radius": 2.53
+    },
+    {
+        "name": "Kepler-668 b",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-11 f",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-870 b",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-1887 b",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-179 c",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-1725 b",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-1154 c",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-1577 b",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-1462 b",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-351 d",
+        "radius": 2.52
+    },
+    {
+        "name": "Kepler-1762 b",
+        "radius": 2.51
+    },
+    {
+        "name": "Kepler-1771 b",
+        "radius": 2.51
+    },
+    {
+        "name": "Kepler-357 c",
+        "radius": 2.51
+    },
+    {
+        "name": "Kepler-126 d",
+        "radius": 2.51
+    },
+    {
+        "name": "Kepler-1341 b",
+        "radius": 2.51
+    },
+    {
+        "name": "Kepler-1441 b",
+        "radius": 2.51
+    },
+    {
+        "name": "Kepler-1721 b",
+        "radius": 2.51
+    },
+    {
+        "name": "Kepler-571 b",
+        "radius": 2.51
+    },
+    {
+        "name": "Kepler-1728 b",
+        "radius": 2.5
+    },
+    {
+        "name": "Kepler-877 b",
+        "radius": 2.5
+    },
+    {
+        "name": "Kepler-984 b",
+        "radius": 2.5
+    },
+    {
+        "name": "Kepler-1044 b",
+        "radius": 2.5
+    },
+    {
+        "name": "Kepler-1132 b",
+        "radius": 2.5
+    },
+    {
+        "name": "Kepler-1208 b",
+        "radius": 2.5
+    },
+    {
+        "name": "Kepler-375 b",
+        "radius": 2.5
+    },
+    {
+        "name": "Kepler-1269 b",
+        "radius": 2.5
+    },
+    {
+        "name": "Kepler-127 c",
+        "radius": 2.5
+    },
+    {
+        "name": "Kepler-852 b",
+        "radius": 2.49
+    },
+    {
+        "name": "Kepler-885 b",
+        "radius": 2.49
+    },
+    {
+        "name": "Kepler-357 d",
+        "radius": 2.49
+    },
+    {
+        "name": "Kepler-1184 b",
+        "radius": 2.49
+    },
+    {
+        "name": "Kepler-620 b",
+        "radius": 2.49
+    },
+    {
+        "name": "Kepler-340 b",
+        "radius": 2.49
+    },
+    {
+        "name": "Kepler-109 c",
+        "radius": 2.48
+    },
+    {
+        "name": "Kepler-268 b",
+        "radius": 2.48
+    },
+    {
+        "name": "Kepler-879 b",
+        "radius": 2.48
+    },
+    {
+        "name": "Kepler-1170 b",
+        "radius": 2.48
+    },
+    {
+        "name": "Kepler-127 d",
+        "radius": 2.48
+    },
+    {
+        "name": "Kepler-102 e",
+        "radius": 2.48
+    },
+    {
+        "name": "Kepler-1724 b",
+        "radius": 2.48
+    },
+    {
+        "name": "Kepler-436 b",
+        "radius": 2.48
+    },
+    {
+        "name": "Kepler-660 b",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-701 b",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-243 b",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-250 c",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-769 b",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-116 c",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-342 b",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-361 c",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-505 b",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-1247 b",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-1337 b",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-191 c",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-201 c",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-1726 b",
+        "radius": 2.47
+    },
+    {
+        "name": "Kepler-1783 b",
+        "radius": 2.46
+    },
+    {
+        "name": "Kepler-1815 b",
+        "radius": 2.46
+    },
+    {
+        "name": "Kepler-543 b",
+        "radius": 2.46
+    },
+    {
+        "name": "Kepler-568 b",
+        "radius": 2.46
+    },
+    {
+        "name": "Kepler-156 b",
+        "radius": 2.46
+    },
+    {
+        "name": "Kepler-181 c",
+        "radius": 2.46
+    },
+    {
+        "name": "Kepler-652 b",
+        "radius": 2.46
+    },
+    {
+        "name": "Kepler-1444 b",
+        "radius": 2.46
+    },
+    {
+        "name": "Kepler-713 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-741 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-282 e",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-1781 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-1043 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-1045 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-991 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-1118 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-1155 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-1419 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-510 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-624 b",
+        "radius": 2.45
+    },
+    {
+        "name": "Kepler-694 b",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-1010 b",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-1041 b",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-989 b",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-1106 b",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-1251 b",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-1381 b",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-616 d",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-659 b",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-1580 b",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-529 d",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-445 d",
+        "radius": 2.44
+    },
+    {
+        "name": "Kepler-82 e",
+        "radius": 2.43
+    },
+    {
+        "name": "Kepler-250 d",
+        "radius": 2.43
+    },
+    {
+        "name": "Kepler-936 b",
+        "radius": 2.43
+    },
+    {
+        "name": "Kepler-1760 b",
+        "radius": 2.43
+    },
+    {
+        "name": "Kepler-1799 b",
+        "radius": 2.43
+    },
+    {
+        "name": "Kepler-1272 b",
+        "radius": 2.43
+    },
+    {
+        "name": "Kepler-410 A b",
+        "radius": 2.43
+    },
+    {
+        "name": "Kepler-557 b",
+        "radius": 2.43
+    },
+    {
+        "name": "Kepler-632 b",
+        "radius": 2.43
+    },
+    {
+        "name": "Kepler-944 b",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-336 d",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-496 b",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-1192 b",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-1299 b",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-1286 b",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-570 b",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-223 b",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-1914 b",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-343 c",
+        "radius": 2.42
+    },
+    {
+        "name": "Kepler-745 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-272 d",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-57 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-304 d",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-911 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-946 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-1099 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-1268 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-166 c",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-610 c",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-614 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-1944 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-1552 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-1632 b",
+        "radius": 2.41
+    },
+    {
+        "name": "Kepler-1666 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-899 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-1033 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-983 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-1052 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-1784 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-1829 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-1858 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-509 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-129 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-604 b",
+        "radius": 2.4
+    },
+    {
+        "name": "Kepler-265 e",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-265 d",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-376 c",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-122 e",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-1307 b",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-1329 b",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-618 b",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-224 d",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-328 b",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-320 b",
+        "radius": 2.39
+    },
+    {
+        "name": "Kepler-478 b",
+        "radius": 2.38
+    },
+    {
+        "name": "Kepler-1016 b",
+        "radius": 2.38
+    },
+    {
+        "name": "Kepler-338 b",
+        "radius": 2.38
+    },
+    {
+        "name": "Kepler-1273 b",
+        "radius": 2.38
+    },
+    {
+        "name": "Kepler-1388 d",
+        "radius": 2.38
+    },
+    {
+        "name": "Kepler-239 c",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-738 b",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-969 b",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-1034 b",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-986 b",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-1020 b",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-1824 b",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-535 b",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-1723 b",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-161 c",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-1469 b",
+        "radius": 2.37
+    },
+    {
+        "name": "Kepler-233 c",
+        "radius": 2.36
+    },
+    {
+        "name": "Kepler-710 b",
+        "radius": 2.36
+    },
+    {
+        "name": "Kepler-750 c",
+        "radius": 2.36
+    },
+    {
+        "name": "Kepler-783 c",
+        "radius": 2.36
+    },
+    {
+        "name": "Kepler-113 c",
+        "radius": 2.36
+    },
+    {
+        "name": "Kepler-173 c",
+        "radius": 2.36
+    },
+    {
+        "name": "Kepler-1498 b",
+        "radius": 2.36
+    },
+    {
+        "name": "Kepler-154 b",
+        "radius": 2.36
+    },
+    {
+        "name": "Kepler-239 b",
+        "radius": 2.35
+    },
+    {
+        "name": "Kepler-246 b",
+        "radius": 2.35
+    },
+    {
+        "name": "Kepler-865 b",
+        "radius": 2.35
+    },
+    {
+        "name": "Kepler-1122 b",
+        "radius": 2.35
+    },
+    {
+        "name": "Kepler-1362 b",
+        "radius": 2.35
+    },
+    {
+        "name": "Kepler-156 c",
+        "radius": 2.35
+    },
+    {
+        "name": "Kepler-104 b",
+        "radius": 2.35
+    },
+    {
+        "name": "Kepler-1468 b",
+        "radius": 2.35
+    },
+    {
+        "name": "Kepler-675 b",
+        "radius": 2.34
+    },
+    {
+        "name": "Kepler-252 c",
+        "radius": 2.34
+    },
+    {
+        "name": "Kepler-417 b",
+        "radius": 2.34
+    },
+    {
+        "name": "Kepler-1154 b",
+        "radius": 2.34
+    },
+    {
+        "name": "Kepler-1685 b",
+        "radius": 2.34
+    },
+    {
+        "name": "Kepler-1214 b",
+        "radius": 2.34
+    },
+    {
+        "name": "Kepler-1840 b",
+        "radius": 2.34
+    },
+    {
+        "name": "Kepler-22 b",
+        "radius": 2.34
+    },
+    {
+        "name": "Kepler-165 c",
+        "radius": 2.34
+    },
+    {
+        "name": "Kepler-81 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-1736 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-58 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-304 c",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-897 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-1115 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-1150 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-1260 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-135 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-612 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-151 c",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-225 c",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-196 c",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-1606 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-1696 b",
+        "radius": 2.33
+    },
+    {
+        "name": "Kepler-689 b",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-238 c",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-245 c",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-112 c",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-290 b",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-861 b",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-1158 b",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-1233 b",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-1718 b",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-638 b",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-104 c",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-443 b",
+        "radius": 2.32
+    },
+    {
+        "name": "Kepler-241 b",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-736 b",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-313 c",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-925 b",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-1134 b",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-1112 b",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-1812 b",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-1345 b",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-1889 b",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-92 c",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-567 b",
+        "radius": 2.31
+    },
+    {
+        "name": "Kepler-671 b",
+        "radius": 2.3
+    },
+    {
+        "name": "Kepler-256 e",
+        "radius": 2.3
+    },
+    {
+        "name": "Kepler-338 c",
+        "radius": 2.3
+    },
+    {
+        "name": "Kepler-166 b",
+        "radius": 2.3
+    },
+    {
+        "name": "Kepler-597 b",
+        "radius": 2.3
+    },
+    {
+        "name": "Kepler-1722 b",
+        "radius": 2.3
+    },
+    {
+        "name": "Kepler-467 b",
+        "radius": 2.29
+    },
+    {
+        "name": "Kepler-1766 b",
+        "radius": 2.29
+    },
+    {
+        "name": "Kepler-84 f",
+        "radius": 2.29
+    },
+    {
+        "name": "Kepler-607 c",
+        "radius": 2.29
+    },
+    {
+        "name": "Kepler-174 d",
+        "radius": 2.29
+    },
+    {
+        "name": "Kepler-639 b",
+        "radius": 2.29
+    },
+    {
+        "name": "Kepler-1916 b",
+        "radius": 2.29
+    },
+    {
+        "name": "Kepler-243 c",
+        "radius": 2.28
+    },
+    {
+        "name": "Kepler-786 b",
+        "radius": 2.28
+    },
+    {
+        "name": "Kepler-112 b",
+        "radius": 2.28
+    },
+    {
+        "name": "Kepler-823 b",
+        "radius": 2.28
+    },
+    {
+        "name": "Kepler-1040 b",
+        "radius": 2.28
+    },
+    {
+        "name": "Kepler-379 c",
+        "radius": 2.28
+    },
+    {
+        "name": "Kepler-580 b",
+        "radius": 2.28
+    },
+    {
+        "name": "Kepler-122 b",
+        "radius": 2.27
+    },
+    {
+        "name": "Kepler-1852 b",
+        "radius": 2.27
+    },
+    {
+        "name": "Kepler-1862 b",
+        "radius": 2.27
+    },
+    {
+        "name": "Kepler-534 b",
+        "radius": 2.27
+    },
+    {
+        "name": "Kepler-176 d",
+        "radius": 2.27
+    },
+    {
+        "name": "Kepler-158 b",
+        "radius": 2.27
+    },
+    {
+        "name": "Kepler-227 b",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-269 b",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-292 f",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-1030 b",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-981 b",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-1116 b",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-1093 b",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-100 c",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-10 c",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-210 b",
+        "radius": 2.26
+    },
+    {
+        "name": "Kepler-240 c",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-83 c",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-1745 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-317 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-487 d",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-1066 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-954 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-49 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-1886 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-1313 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-1655 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-372 d",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-439 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-1645 b",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-1388 e",
+        "radius": 2.25
+    },
+    {
+        "name": "Kepler-832 b",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-1753 b",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-1782 b",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-169 e",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-566 b",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-1547 b",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-1460 b",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-1451 b",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-1475 b",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-1921 b",
+        "radius": 2.24
+    },
+    {
+        "name": "Kepler-83 b",
+        "radius": 2.23
+    },
+    {
+        "name": "Kepler-306 d",
+        "radius": 2.23
+    },
+    {
+        "name": "Kepler-69 b",
+        "radius": 2.23
+    },
+    {
+        "name": "Kepler-1382 b",
+        "radius": 2.23
+    },
+    {
+        "name": "Kepler-215 d",
+        "radius": 2.23
+    },
+    {
+        "name": "Kepler-1488 b",
+        "radius": 2.23
+    },
+    {
+        "name": "Kepler-1929 b",
+        "radius": 2.23
+    },
+    {
+        "name": "Kepler-281 b",
+        "radius": 2.22
+    },
+    {
+        "name": "Kepler-288 b",
+        "radius": 2.22
+    },
+    {
+        "name": "Kepler-967 b",
+        "radius": 2.22
+    },
+    {
+        "name": "Kepler-122 f",
+        "radius": 2.22
+    },
+    {
+        "name": "Kepler-572 b",
+        "radius": 2.22
+    },
+    {
+        "name": "Kepler-555 b",
+        "radius": 2.22
+    },
+    {
+        "name": "Kepler-171 d",
+        "radius": 2.22
+    },
+    {
+        "name": "Kepler-213 c",
+        "radius": 2.22
+    },
+    {
+        "name": "Kepler-1621 b",
+        "radius": 2.22
+    },
+    {
+        "name": "Kepler-765 b",
+        "radius": 2.21
+    },
+    {
+        "name": "Kepler-1176 b",
+        "radius": 2.21
+    },
+    {
+        "name": "Kepler-1808 b",
+        "radius": 2.21
+    },
+    {
+        "name": "Kepler-68 b",
+        "radius": 2.21
+    },
+    {
+        "name": "Kepler-1388 b",
+        "radius": 2.21
+    },
+    {
+        "name": "Kepler-1701 b",
+        "radius": 2.21
+    },
+    {
+        "name": "Kepler-1093 c",
+        "radius": 2.21
+    },
+    {
+        "name": "Kepler-275 b",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-300 c",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-479 b",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-947 b",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-411 b",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-321 c",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-124 c",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-1388 c",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-1374 b",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-1474 b",
+        "radius": 2.2
+    },
+    {
+        "name": "Kepler-27 d",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-61 b",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-484 b",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-934 b",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-360 c",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-1105 b",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-1796 b",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-574 b",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-1502 b",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-930 b",
+        "radius": 2.19
+    },
+    {
+        "name": "Kepler-81 c",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-261 b",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-263 c",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-291 b",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-300 b",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-797 b",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-330 c",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-122 d",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-1334 b",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-1500 b",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-1511 b",
+        "radius": 2.18
+    },
+    {
+        "name": "Kepler-32 d",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-23 d",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-343 b",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-980 b",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-1001 c",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-1389 b",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-1312 b",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-1336 c",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-145 b",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-157 c",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-651 b",
+        "radius": 2.17
+    },
+    {
+        "name": "Kepler-52 b",
+        "radius": 2.16
+    },
+    {
+        "name": "Kepler-282 d",
+        "radius": 2.16
+    },
+    {
+        "name": "Kepler-538 b",
+        "radius": 2.16
+    },
+    {
+        "name": "Kepler-80 b",
+        "radius": 2.16
+    },
+    {
+        "name": "Kepler-80 c",
+        "radius": 2.16
+    },
+    {
+        "name": "Kepler-184 c",
+        "radius": 2.16
+    },
+    {
+        "name": "Kepler-649 b",
+        "radius": 2.16
+    },
+    {
+        "name": "Kepler-641 b",
+        "radius": 2.16
+    },
+    {
+        "name": "Kepler-283 b",
+        "radius": 2.15
+    },
+    {
+        "name": "Kepler-862 b",
+        "radius": 2.15
+    },
+    {
+        "name": "Kepler-195 b",
+        "radius": 2.15
+    },
+    {
+        "name": "Kepler-1599 b",
+        "radius": 2.15
+    },
+    {
+        "name": "Kepler-306 c",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-308 c",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-1195 b",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-1086 b",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-1186 b",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-518 b",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-519 b",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-161 b",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-224 e",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-937 c",
+        "radius": 2.14
+    },
+    {
+        "name": "Kepler-732 b",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-292 d",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-1788 b",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-996 b",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-1168 b",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-1174 b",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-26 e",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-49 c",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-1226 b",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-131 b",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-654 b",
+        "radius": 2.13
+    },
+    {
+        "name": "Kepler-230 c",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-1071 b",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-973 b",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-1110 b",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-1793 b",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-1836 b",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-1370 b",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-216 b",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-217 b",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-1496 b",
+        "radius": 2.12
+    },
+    {
+        "name": "Kepler-237 c",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-256 c",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-298 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-292 e",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-964 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-1056 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-1058 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-1133 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-1123 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-1227 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-1843 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-613 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-196 b",
+        "radius": 2.11
+    },
+    {
+        "name": "Kepler-666 b",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-691 b",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-401 c",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-1321 c",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-1378 b",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-137 c",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-528 b",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-529 b",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-1897 b",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-19 b",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-165 b",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-1353 b",
+        "radius": 2.1
+    },
+    {
+        "name": "Kepler-1135 b",
+        "radius": 2.09
+    },
+    {
+        "name": "Kepler-1807 b",
+        "radius": 2.09
+    },
+    {
+        "name": "Kepler-544 b",
+        "radius": 2.09
+    },
+    {
+        "name": "Kepler-174 b",
+        "radius": 2.09
+    },
+    {
+        "name": "Kepler-1609 b",
+        "radius": 2.09
+    },
+    {
+        "name": "Kepler-1919 b",
+        "radius": 2.09
+    },
+    {
+        "name": "Kepler-1491 b",
+        "radius": 2.09
+    },
+    {
+        "name": "Kepler-298 c",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-846 b",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-477 b",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-114 d",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-308 b",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-1063 b",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-336 c",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-319 d",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-1866 b",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-587 b",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-556 b",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-1930 b",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-389 c",
+        "radius": 2.08
+    },
+    {
+        "name": "Kepler-24 d",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-270 b",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-921 b",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-487 c",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-1787 b",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-1831 b",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-1250 b",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-454 b",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-403 c",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-397 b",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-1436 b",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-1503 b",
+        "radius": 2.07
+    },
+    {
+        "name": "Kepler-683 b",
+        "radius": 2.06
+    },
+    {
+        "name": "Kepler-256 d",
+        "radius": 2.06
+    },
+    {
+        "name": "Kepler-794 b",
+        "radius": 2.06
+    },
+    {
+        "name": "Kepler-1092 b",
+        "radius": 2.06
+    },
+    {
+        "name": "Kepler-136 b",
+        "radius": 2.06
+    },
+    {
+        "name": "Kepler-405 b",
+        "radius": 2.06
+    },
+    {
+        "name": "Kepler-594 b",
+        "radius": 2.06
+    },
+    {
+        "name": "Kepler-194 b",
+        "radius": 2.06
+    },
+    {
+        "name": "Kepler-634 b",
+        "radius": 2.06
+    },
+    {
+        "name": "Kepler-267 c",
+        "radius": 2.05
+    },
+    {
+        "name": "Kepler-1046 b",
+        "radius": 2.05
+    },
+    {
+        "name": "Kepler-1802 c",
+        "radius": 2.05
+    },
+    {
+        "name": "Kepler-1162 b",
+        "radius": 2.05
+    },
+    {
+        "name": "Kepler-1188 b",
+        "radius": 2.05
+    },
+    {
+        "name": "Kepler-159 c",
+        "radius": 2.05
+    },
+    {
+        "name": "Kepler-214 b",
+        "radius": 2.05
+    },
+    {
+        "name": "Kepler-1931 b",
+        "radius": 2.05
+    },
+    {
+        "name": "Kepler-749 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-814 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-1754 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-331 c",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-327 d",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-341 d",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-370 c",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-499 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-1300 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-1870 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-133 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-611 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-180 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-653 b",
+        "radius": 2.04
+    },
+    {
+        "name": "Kepler-235 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-772 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-18 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-291 c",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-906 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-341 e",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-1014 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-374 d",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-1716 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-1403 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-514 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-575 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-1925 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-1537 b",
+        "radius": 2.03
+    },
+    {
+        "name": "Kepler-759 b",
+        "radius": 2.02
+    },
+    {
+        "name": "Kepler-912 b",
+        "radius": 2.02
+    },
+    {
+        "name": "Kepler-1161 b",
+        "radius": 2.02
+    },
+    {
+        "name": "Kepler-1461 b",
+        "radius": 2.02
+    },
+    {
+        "name": "Kepler-1734 b",
+        "radius": 2.01
+    },
+    {
+        "name": "Kepler-415 c",
+        "radius": 2.01
+    },
+    {
+        "name": "Kepler-748 b",
+        "radius": 2.01
+    },
+    {
+        "name": "Kepler-354 b",
+        "radius": 2.01
+    },
+    {
+        "name": "Kepler-1177 b",
+        "radius": 2.01
+    },
+    {
+        "name": "Kepler-362 c",
+        "radius": 2.01
+    },
+    {
+        "name": "Kepler-1861 b",
+        "radius": 2.01
+    },
+    {
+        "name": "Kepler-155 b",
+        "radius": 2.01
+    },
+    {
+        "name": "Kepler-633 c",
+        "radius": 2.01
+    },
+    {
+        "name": "Kepler-52 c",
+        "radius": 2
+    },
+    {
+        "name": "Kepler-788 b",
+        "radius": 2
+    },
+    {
+        "name": "Kepler-48 d",
+        "radius": 2
+    },
+    {
+        "name": "Kepler-273 c",
+        "radius": 2
+    },
+    {
+        "name": "Kepler-113 b",
+        "radius": 2
+    },
+    {
+        "name": "Kepler-942 b",
+        "radius": 2
+    },
+    {
+        "name": "Kepler-377 c",
+        "radius": 2
+    },
+    {
+        "name": "Kepler-120 b",
+        "radius": 2
+    },
+    {
+        "name": "Kepler-1509 b",
+        "radius": 2
+    },
+    {
+        "name": "Kepler-52 d",
+        "radius": 1.99
+    },
+    {
+        "name": "Kepler-674 b",
+        "radius": 1.99
+    },
+    {
+        "name": "Kepler-1669 b",
+        "radius": 1.99
+    },
+    {
+        "name": "Kepler-356 c",
+        "radius": 1.99
+    },
+    {
+        "name": "Kepler-1941 b",
+        "radius": 1.99
+    },
+    {
+        "name": "Kepler-1596 b",
+        "radius": 1.99
+    },
+    {
+        "name": "Kepler-798 b",
+        "radius": 1.98
+    },
+    {
+        "name": "Kepler-1205 b",
+        "radius": 1.98
+    },
+    {
+        "name": "Kepler-1330 b",
+        "radius": 1.98
+    },
+    {
+        "name": "Kepler-62 d",
+        "radius": 1.98
+    },
+    {
+        "name": "Kepler-1454 b",
+        "radius": 1.98
+    },
+    {
+        "name": "Kepler-46 d",
+        "radius": 1.97
+    },
+    {
+        "name": "Kepler-903 b",
+        "radius": 1.97
+    },
+    {
+        "name": "Kepler-324 e",
+        "radius": 1.97
+    },
+    {
+        "name": "Kepler-158 c",
+        "radius": 1.97
+    },
+    {
+        "name": "Kepler-1289 b",
+        "radius": 1.97
+    },
+    {
+        "name": "Kepler-235 d",
+        "radius": 1.96
+    },
+    {
+        "name": "Kepler-1021 b",
+        "radius": 1.96
+    },
+    {
+        "name": "Kepler-962 b",
+        "radius": 1.96
+    },
+    {
+        "name": "Kepler-1327 b",
+        "radius": 1.96
+    },
+    {
+        "name": "Kepler-1459 b",
+        "radius": 1.96
+    },
+    {
+        "name": "Kepler-1928 b",
+        "radius": 1.96
+    },
+    {
+        "name": "Kepler-1806 b",
+        "radius": 1.96
+    },
+    {
+        "name": "Kepler-761 b",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-878 b",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-900 b",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-1054 b",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-382 b",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-386 c",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-1849 b",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-214 c",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-633 b",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-1541 b",
+        "radius": 1.95
+    },
+    {
+        "name": "Kepler-705 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-32 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-272 c",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-804 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1201 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1153 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1794 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1302 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1266 c",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1348 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1878 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-136 c",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-142 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1422 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-134 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-185 c",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1449 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1450 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-1497 b",
+        "radius": 1.94
+    },
+    {
+        "name": "Kepler-231 c",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-988 b",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-329 c",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-1847 b",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-1238 b",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-1392 b",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-1324 b",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-132 d",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-191 b",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-1350 b",
+        "radius": 1.93
+    },
+    {
+        "name": "Kepler-260 b",
+        "radius": 1.92
+    },
+    {
+        "name": "Kepler-273 b",
+        "radius": 1.92
+    },
+    {
+        "name": "Kepler-349 b",
+        "radius": 1.92
+    },
+    {
+        "name": "Kepler-357 b",
+        "radius": 1.92
+    },
+    {
+        "name": "Kepler-1239 b",
+        "radius": 1.92
+    },
+    {
+        "name": "Kepler-523 b",
+        "radius": 1.92
+    },
+    {
+        "name": "Kepler-615 b",
+        "radius": 1.92
+    },
+    {
+        "name": "Kepler-1534 b",
+        "radius": 1.92
+    },
+    {
+        "name": "Kepler-231 b",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-30 b",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-796 b",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-317 c",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-1165 c",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-1712 b",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-92 d",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-1432 b",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-526 b",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-1924 b",
+        "radius": 1.91
+    },
+    {
+        "name": "Kepler-55 b",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-848 b",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-851 b",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-916 b",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-933 b",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-349 c",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-37 d",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-1400 b",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-579 b",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-1529 b",
+        "radius": 1.9
+    },
+    {
+        "name": "Kepler-680 b",
+        "radius": 1.89
+    },
+    {
+        "name": "Kepler-337 c",
+        "radius": 1.89
+    },
+    {
+        "name": "Kepler-50 c",
+        "radius": 1.89
+    },
+    {
+        "name": "Kepler-160 b",
+        "radius": 1.89
+    },
+    {
+        "name": "Kepler-625 b",
+        "radius": 1.89
+    },
+    {
+        "name": "Kepler-1742 b",
+        "radius": 1.88
+    },
+    {
+        "name": "Kepler-85 c",
+        "radius": 1.88
+    },
+    {
+        "name": "Kepler-341 c",
+        "radius": 1.88
+    },
+    {
+        "name": "Kepler-1845 b",
+        "radius": 1.88
+    },
+    {
+        "name": "Kepler-1875 b",
+        "radius": 1.88
+    },
+    {
+        "name": "Kepler-1343 b",
+        "radius": 1.88
+    },
+    {
+        "name": "Kepler-98 b",
+        "radius": 1.88
+    },
+    {
+        "name": "Kepler-202 c",
+        "radius": 1.88
+    },
+    {
+        "name": "Kepler-1644 b",
+        "radius": 1.88
+    },
+    {
+        "name": "Kepler-267 d",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-283 c",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-309 c",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-331 b",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-1005 b",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-1679 b",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-1147 b",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-1121 b",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-366 c",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-1217 b",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-155 c",
+        "radius": 1.87
+    },
+    {
+        "name": "Kepler-82 d",
+        "radius": 1.86
+    },
+    {
+        "name": "Kepler-753 b",
+        "radius": 1.86
+    },
+    {
+        "name": "Kepler-1234 b",
+        "radius": 1.86
+    },
+    {
+        "name": "Kepler-1243 b",
+        "radius": 1.86
+    },
+    {
+        "name": "Kepler-449 c",
+        "radius": 1.86
+    },
+    {
+        "name": "Kepler-1906 b",
+        "radius": 1.86
+    },
+    {
+        "name": "Kepler-601 b",
+        "radius": 1.86
+    },
+    {
+        "name": "Kepler-430 c",
+        "radius": 1.86
+    },
+    {
+        "name": "Kepler-1526 b",
+        "radius": 1.86
+    },
+    {
+        "name": "Kepler-55 d",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-55 c",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-48 b",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-792 b",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-915 b",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-1236 b",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-130 d",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-524 b",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-33 b",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-206 c",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-1613 b",
+        "radius": 1.85
+    },
+    {
+        "name": "Kepler-1739 b",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-11 b",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-824 b",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-331 d",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-1795 b",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-60 c",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-1288 b",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-389 b",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-401 b",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-1413 b",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-217 c",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-1653 b",
+        "radius": 1.84
+    },
+    {
+        "name": "Kepler-235 e",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-737 b",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-32 c",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-363 d",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-1306 b",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-1713 b",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-1315 c",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-208 b",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-372 b",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-1923 b",
+        "radius": 1.83
+    },
+    {
+        "name": "Kepler-236 b",
+        "radius": 1.82
+    },
+    {
+        "name": "Kepler-306 b",
+        "radius": 1.82
+    },
+    {
+        "name": "Kepler-998 b",
+        "radius": 1.82
+    },
+    {
+        "name": "Kepler-1816 b",
+        "radius": 1.82
+    },
+    {
+        "name": "Kepler-1821 b",
+        "radius": 1.82
+    },
+    {
+        "name": "Kepler-1844 b",
+        "radius": 1.82
+    },
+    {
+        "name": "Kepler-148 b",
+        "radius": 1.82
+    },
+    {
+        "name": "Kepler-622 b",
+        "radius": 1.82
+    },
+    {
+        "name": "Kepler-1489 b",
+        "radius": 1.82
+    },
+    {
+        "name": "Kepler-286 e",
+        "radius": 1.81
+    },
+    {
+        "name": "Kepler-350 b",
+        "radius": 1.81
+    },
+    {
+        "name": "Kepler-1160 b",
+        "radius": 1.81
+    },
+    {
+        "name": "Kepler-603 d",
+        "radius": 1.81
+    },
+    {
+        "name": "Kepler-1602 b",
+        "radius": 1.81
+    },
+    {
+        "name": "Kepler-236 c",
+        "radius": 1.8
+    },
+    {
+        "name": "Kepler-919 b",
+        "radius": 1.8
+    },
+    {
+        "name": "Kepler-353 c",
+        "radius": 1.8
+    },
+    {
+        "name": "Kepler-1119 b",
+        "radius": 1.8
+    },
+    {
+        "name": "Kepler-1322 c",
+        "radius": 1.8
+    },
+    {
+        "name": "Kepler-1384 b",
+        "radius": 1.8
+    },
+    {
+        "name": "Kepler-220 c",
+        "radius": 1.8
+    },
+    {
+        "name": "Kepler-105 c",
+        "radius": 1.79
+    },
+    {
+        "name": "Kepler-845 b",
+        "radius": 1.79
+    },
+    {
+        "name": "Kepler-374 c",
+        "radius": 1.79
+    },
+    {
+        "name": "Kepler-1262 b",
+        "radius": 1.79
+    },
+    {
+        "name": "Kepler-1428 b",
+        "radius": 1.79
+    },
+    {
+        "name": "Kepler-1073 c",
+        "radius": 1.79
+    },
+    {
+        "name": "Kepler-716 c",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-255 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-784 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-1711 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-887 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-927 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-1017 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-1321 d",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-1344 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-1396 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-520 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-20 b",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-204 c",
+        "radius": 1.78
+    },
+    {
+        "name": "Kepler-299 e",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-825 c",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-932 b",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-1079 b",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-1111 b",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-1837 b",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-1879 b",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-1404 b",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-621 b",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-1245 c",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-1493 b",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-508 b",
+        "radius": 1.77
+    },
+    {
+        "name": "Kepler-280 b",
+        "radius": 1.76
+    },
+    {
+        "name": "Kepler-319 b",
+        "radius": 1.76
+    },
+    {
+        "name": "Kepler-1822 b",
+        "radius": 1.76
+    },
+    {
+        "name": "Kepler-365 b",
+        "radius": 1.76
+    },
+    {
+        "name": "Kepler-1463 b",
+        "radius": 1.76
+    },
+    {
+        "name": "Kepler-55 f",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-260 c",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-262 c",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1761 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1002 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1009 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-339 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-992 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1680 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-371 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-373 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1305 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1265 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1838 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-200 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1455 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1922 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-1631 b",
+        "radius": 1.75
+    },
+    {
+        "name": "Kepler-247 b",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-758 e",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-830 b",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-795 b",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-295 d",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-968 b",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-1108 b",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-1249 b",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-1424 b",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-414 b",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-1593 b",
+        "radius": 1.74
+    },
+    {
+        "name": "Kepler-28 b",
+        "radius": 1.73
+    },
+    {
+        "name": "Kepler-69 c",
+        "radius": 1.73
+    },
+    {
+        "name": "Kepler-374 b",
+        "radius": 1.73
+    },
+    {
+        "name": "Kepler-364 b",
+        "radius": 1.73
+    },
+    {
+        "name": "Kepler-1191 b",
+        "radius": 1.73
+    },
+    {
+        "name": "Kepler-446 b",
+        "radius": 1.73
+    },
+    {
+        "name": "Kepler-1426 b",
+        "radius": 1.73
+    },
+    {
+        "name": "Kepler-1952 b",
+        "radius": 1.73
+    },
+    {
+        "name": "Kepler-54 b",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-23 b",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-918 b",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-1159 b",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-446 d",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-1691 b",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-62 e",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-200 c",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-207 b",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-208 e",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-1604 b",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-1969 b",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-1643 b",
+        "radius": 1.72
+    },
+    {
+        "name": "Kepler-270 c",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-57 c",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-881 b",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-1019 b",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-1022 b",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-1802 b",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-1180 b",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-1292 b",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-195 c",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-371 c",
+        "radius": 1.71
+    },
+    {
+        "name": "Kepler-226 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-107 c",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-253 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-758 c",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-305 e",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-917 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-923 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-1059 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-1798 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-1683 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-1212 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-1342 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-1315 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-1401 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-577 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-1477 b",
+        "radius": 1.7
+    },
+    {
+        "name": "Kepler-245 e",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-21 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-829 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-810 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-85 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-345 c",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-1061 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-1138 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-60 d",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-1089 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-1544 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-1569 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-1479 b",
+        "radius": 1.69
+    },
+    {
+        "name": "Kepler-773 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-1072 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-348 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-1828 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-1143 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-1126 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-1254 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-1229 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-399 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-50 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-159 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-1471 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-1476 b",
+        "radius": 1.68
+    },
+    {
+        "name": "Kepler-265 b",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-111 b",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-768 b",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-833 b",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-1042 b",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-1062 b",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-1209 b",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-142 d",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-149 c",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-1556 b",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-1448 b",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-990 c",
+        "radius": 1.67
+    },
+    {
+        "name": "Kepler-83 d",
+        "radius": 1.66
+    },
+    {
+        "name": "Kepler-301 d",
+        "radius": 1.66
+    },
+    {
+        "name": "Kepler-311 b",
+        "radius": 1.66
+    },
+    {
+        "name": "Kepler-909 b",
+        "radius": 1.66
+    },
+    {
+        "name": "Kepler-1124 b",
+        "radius": 1.66
+    },
+    {
+        "name": "Kepler-1282 b",
+        "radius": 1.66
+    },
+    {
+        "name": "Kepler-1841 b",
+        "radius": 1.66
+    },
+    {
+        "name": "Kepler-221 b",
+        "radius": 1.66
+    },
+    {
+        "name": "Kepler-1913 b",
+        "radius": 1.66
+    },
+    {
+        "name": "Kepler-28 c",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-267 b",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-928 b",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-1107 b",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-1127 b",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-605 b",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-207 c",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-208 c",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-1942 b",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-1483 b",
+        "radius": 1.65
+    },
+    {
+        "name": "Kepler-754 b",
+        "radius": 1.64
+    },
+    {
+        "name": "Kepler-883 b",
+        "radius": 1.64
+    },
+    {
+        "name": "Kepler-1182 b",
+        "radius": 1.64
+    },
+    {
+        "name": "Kepler-60 b",
+        "radius": 1.64
+    },
+    {
+        "name": "Kepler-1231 b",
+        "radius": 1.64
+    },
+    {
+        "name": "Kepler-619 c",
+        "radius": 1.64
+    },
+    {
+        "name": "Kepler-1585 b",
+        "radius": 1.64
+    },
+    {
+        "name": "Kepler-1899 b",
+        "radius": 1.64
+    },
+    {
+        "name": "Kepler-939 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-872 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-888 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-322 c",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-1245 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-404 c",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-190 c",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-168 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-598 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-164 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-188 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-1571 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-1608 b",
+        "radius": 1.63
+    },
+    {
+        "name": "Kepler-238 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-55 e",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-769 c",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-744 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-294 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-929 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-323 c",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-501 c",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-1271 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-400 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-1903 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-1440 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-1702 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-1958 b",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-1468 c",
+        "radius": 1.62
+    },
+    {
+        "name": "Kepler-1751 b",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-853 b",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-311 c",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-352 c",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-384 c",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-394 c",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-1397 b",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-176 b",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-440 b",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-1037 b",
+        "radius": 1.61
+    },
+    {
+        "name": "Kepler-299 d",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-1651 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-886 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-84 d",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-356 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-1167 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-1145 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-1148 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-1181 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-120 c",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-366 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-1259 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-1402 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-1600 c",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-1457 b",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-365 c",
+        "radius": 1.6
+    },
+    {
+        "name": "Kepler-228 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-771 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-850 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-1070 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-334 d",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-369 c",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-363 c",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-1232 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-1281 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-1863 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-144 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-144 c",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-542 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-1439 b",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-166 d",
+        "radius": 1.59
+    },
+    {
+        "name": "Kepler-778 b",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-922 b",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-59 c",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-381 c",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-1206 b",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-1287 b",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-1652 b",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-65 d",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-205 c",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-379 b",
+        "radius": 1.58
+    },
+    {
+        "name": "Kepler-256 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-866 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-1669 c",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-1064 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-1029 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-974 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-323 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-1825 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-49 d",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-504 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-140 c",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-1586 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-1516 b",
+        "radius": 1.57
+    },
+    {
+        "name": "Kepler-760 c",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-1078 b",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-338 e",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-373 c",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-1823 b",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-1216 b",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-445 c",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-1391 b",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-93 b",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-179 b",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-157 d",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-174 c",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-441 b",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-437 b",
+        "radius": 1.56
+    },
+    {
+        "name": "Kepler-246 c",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-828 b",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-295 b",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-935 b",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-876 b",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-1104 b",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-1882 b",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-100 d",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-1335 b",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-560 b",
+        "radius": 1.55
+    },
+    {
+        "name": "Kepler-756 b",
+        "radius": 1.54
+    },
+    {
+        "name": "Kepler-931 b",
+        "radius": 1.54
+    },
+    {
+        "name": "Kepler-1772 b",
+        "radius": 1.54
+    },
+    {
+        "name": "Kepler-377 b",
+        "radius": 1.54
+    },
+    {
+        "name": "Kepler-1223 b",
+        "radius": 1.54
+    },
+    {
+        "name": "Kepler-1472 b",
+        "radius": 1.54
+    },
+    {
+        "name": "Kepler-107 b",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-1136 b",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-1210 b",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-1859 b",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-49 e",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-449 b",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-646 b",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-202 b",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-1962 b",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-1473 b",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-90 c",
+        "radius": 1.53
+    },
+    {
+        "name": "Kepler-764 b",
+        "radius": 1.52
+    },
+    {
+        "name": "Kepler-272 b",
+        "radius": 1.52
+    },
+    {
+        "name": "Kepler-296 d",
+        "radius": 1.52
+    },
+    {
+        "name": "Kepler-394 b",
+        "radius": 1.52
+    },
+    {
+        "name": "Kepler-1320 b",
+        "radius": 1.52
+    },
+    {
+        "name": "Kepler-1322 b",
+        "radius": 1.52
+    },
+    {
+        "name": "Kepler-1893 b",
+        "radius": 1.52
+    },
+    {
+        "name": "Kepler-1617 b",
+        "radius": 1.52
+    },
+    {
+        "name": "Kepler-842 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-914 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-1199 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-1166 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-124 d",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-1194 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-1246 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-126 c",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-402 c",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-99 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-1584 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-386 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-1564 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-968 c",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-1522 b",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-176 e",
+        "radius": 1.51
+    },
+    {
+        "name": "Kepler-844 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-354 d",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-1091 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-1277 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-1865 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-1256 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-1687 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-1311 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-137 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-141 c",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-515 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-189 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-181 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-89 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-1464 b",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-154 e",
+        "radius": 1.5
+    },
+    {
+        "name": "Kepler-1032 b",
+        "radius": 1.49
+    },
+    {
+        "name": "Kepler-334 c",
+        "radius": 1.49
+    },
+    {
+        "name": "Kepler-1012 b",
+        "radius": 1.49
+    },
+    {
+        "name": "Kepler-381 d",
+        "radius": 1.49
+    },
+    {
+        "name": "Kepler-383 b",
+        "radius": 1.49
+    },
+    {
+        "name": "Kepler-1258 b",
+        "radius": 1.49
+    },
+    {
+        "name": "Kepler-1290 b",
+        "radius": 1.49
+    },
+    {
+        "name": "Kepler-1317 b",
+        "radius": 1.49
+    },
+    {
+        "name": "Kepler-1917 b",
+        "radius": 1.49
+    },
+    {
+        "name": "Kepler-240 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-776 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-801 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-1067 c",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-1048 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-1120 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-1149 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-1257 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-1857 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-1386 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-1323 b",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-9 d",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-1073 d",
+        "radius": 1.48
+    },
+    {
+        "name": "Kepler-32 f",
+        "radius": 1.47
+    },
+    {
+        "name": "Kepler-822 b",
+        "radius": 1.47
+    },
+    {
+        "name": "Kepler-1198 b",
+        "radius": 1.47
+    },
+    {
+        "name": "Kepler-1253 b",
+        "radius": 1.47
+    },
+    {
+        "name": "Kepler-383 c",
+        "radius": 1.47
+    },
+    {
+        "name": "Kepler-1221 b",
+        "radius": 1.47
+    },
+    {
+        "name": "Kepler-218 b",
+        "radius": 1.47
+    },
+    {
+        "name": "Kepler-208 d",
+        "radius": 1.47
+    },
+    {
+        "name": "Kepler-1165 b",
+        "radius": 1.47
+    },
+    {
+        "name": "Kepler-237 b",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-292 c",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-321 b",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-1179 b",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-1854 b",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-127 b",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-190 b",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-589 c",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-403 d",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-1523 b",
+        "radius": 1.46
+    },
+    {
+        "name": "Kepler-255 d",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-262 b",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-355 b",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-1244 b",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-36 b",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-1688 b",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-1431 b",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-169 d",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-215 e",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-1555 b",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-1506 b",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-1531 b",
+        "radius": 1.45
+    },
+    {
+        "name": "Kepler-793 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-806 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-898 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-1084 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-1088 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-1252 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-402 e",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-1416 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-97 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-187 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-225 b",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-197 c",
+        "radius": 1.44
+    },
+    {
+        "name": "Kepler-1743 b",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-1207 b",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-1131 b",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-1291 b",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-400 c",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-1375 b",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-1433 b",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-10 b",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-198 d",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-62 f",
+        "radius": 1.43
+    },
+    {
+        "name": "Kepler-81 d",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-901 b",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-118 b",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-369 b",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-1228 b",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-1274 b",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-128 b",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-138 c",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-65 b",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-215 b",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-197 d",
+        "radius": 1.42
+    },
+    {
+        "name": "Kepler-707 b",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-755 b",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-895 b",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-339 d",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-394 d",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-537 b",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-406 b",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-167 b",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-1456 b",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-1485 b",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-132 e",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-1933 b",
+        "radius": 1.41
+    },
+    {
+        "name": "Kepler-905 b",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-310 b",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-123 c",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-1310 b",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-1220 b",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-132 c",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-1947 b",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-1254 d",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-446 c",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-1614 b",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-1968 b",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-1350 c",
+        "radius": 1.4
+    },
+    {
+        "name": "Kepler-269 c",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-85 d",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-337 b",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-339 c",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-381 b",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-380 c",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-1693 b",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-1884 b",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-1410 b",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-162 b",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-224 b",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-658 b",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-1185 b",
+        "radius": 1.39
+    },
+    {
+        "name": "Kepler-777 b",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-285 b",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-301 c",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-296 c",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-326 c",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-1035 b",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-1818 b",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-403 b",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-1355 b",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-140 b",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-1557 b",
+        "radius": 1.38
+    },
+    {
+        "name": "Kepler-831 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-826 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-360 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-1826 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-1193 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-1856 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-1295 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-1880 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-1891 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-167 c",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-157 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-169 c",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-203 d",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-205 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-1610 b",
+        "radius": 1.37
+    },
+    {
+        "name": "Kepler-251 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-755 c",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-1749 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-295 c",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-997 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-1311 c",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-1298 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-1368 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-1394 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-507 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-1895 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-163 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-1938 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-1254 c",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-1949 b",
+        "radius": 1.36
+    },
+    {
+        "name": "Kepler-948 b",
+        "radius": 1.35
+    },
+    {
+        "name": "Kepler-330 b",
+        "radius": 1.35
+    },
+    {
+        "name": "Kepler-370 b",
+        "radius": 1.35
+    },
+    {
+        "name": "Kepler-1833 b",
+        "radius": 1.35
+    },
+    {
+        "name": "Kepler-1301 b",
+        "radius": 1.35
+    },
+    {
+        "name": "Kepler-1356 b",
+        "radius": 1.35
+    },
+    {
+        "name": "Kepler-1414 b",
+        "radius": 1.35
+    },
+    {
+        "name": "Kepler-1478 b",
+        "radius": 1.35
+    },
+    {
+        "name": "Kepler-1756 b",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-316 c",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-333 b",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-1279 b",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-1346 b",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-126 b",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-102 d",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-629 b",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-1574 b",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-361 b",
+        "radius": 1.34
+    },
+    {
+        "name": "Kepler-1156 b",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-1218 b",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-1370 c",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-1873 b",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-1383 b",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-147 b",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-80 e",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-213 b",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-62 b",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-1904 b",
+        "radius": 1.33
+    },
+    {
+        "name": "Kepler-1240 b",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-1834 b",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-1224 b",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-1275 b",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-1332 b",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-135 c",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-206 b",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-154 f",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-953 c",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-1699 b",
+        "radius": 1.32
+    },
+    {
+        "name": "Kepler-106 d",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-286 d",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-292 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-904 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-907 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-326 d",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-1096 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-1328 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-1415 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-1892 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-1406 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-1620 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-1611 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-1466 b",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-354 c",
+        "radius": 1.31
+    },
+    {
+        "name": "Kepler-226 d",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-54 d",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-1008 b",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-1813 b",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-384 b",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-100 b",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-80 d",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-211 c",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-211 b",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-1572 b",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-442 b",
+        "radius": 1.3
+    },
+    {
+        "name": "Kepler-54 c",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-286 c",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-299 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-114 c",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-825 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-1003 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-1146 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-1213 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-128 c",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-1399 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-186 d",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-217 d",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-206 d",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-1565 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-1528 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-1065 c",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-1532 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-90 b",
+        "radius": 1.29
+    },
+    {
+        "name": "Kepler-301 b",
+        "radius": 1.28
+    },
+    {
+        "name": "Kepler-821 b",
+        "radius": 1.28
+    },
+    {
+        "name": "Kepler-994 b",
+        "radius": 1.28
+    },
+    {
+        "name": "Kepler-1114 b",
+        "radius": 1.28
+    },
+    {
+        "name": "Kepler-495 c",
+        "radius": 1.28
+    },
+    {
+        "name": "Kepler-1434 b",
+        "radius": 1.28
+    },
+    {
+        "name": "Kepler-134 c",
+        "radius": 1.28
+    },
+    {
+        "name": "Kepler-173 b",
+        "radius": 1.28
+    },
+    {
+        "name": "Kepler-1940 b",
+        "radius": 1.28
+    },
+    {
+        "name": "Kepler-1028 b",
+        "radius": 1.27
+    },
+    {
+        "name": "Kepler-1297 b",
+        "radius": 1.27
+    },
+    {
+        "name": "Kepler-402 d",
+        "radius": 1.27
+    },
+    {
+        "name": "Kepler-1380 b",
+        "radius": 1.27
+    },
+    {
+        "name": "Kepler-1366 b",
+        "radius": 1.27
+    },
+    {
+        "name": "Kepler-1951 b",
+        "radius": 1.27
+    },
+    {
+        "name": "Kepler-1954 b",
+        "radius": 1.27
+    },
+    {
+        "name": "Kepler-1932 b",
+        "radius": 1.27
+    },
+    {
+        "name": "Kepler-834 b",
+        "radius": 1.26
+    },
+    {
+        "name": "Kepler-1075 b",
+        "radius": 1.26
+    },
+    {
+        "name": "Kepler-1098 b",
+        "radius": 1.26
+    },
+    {
+        "name": "Kepler-1390 b",
+        "radius": 1.26
+    },
+    {
+        "name": "Kepler-1568 b",
+        "radius": 1.26
+    },
+    {
+        "name": "Kepler-763 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-326 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-1100 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-1190 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-1848 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-1905 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-1894 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-1575 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-1965 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-1607 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-1514 c",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-362 b",
+        "radius": 1.25
+    },
+    {
+        "name": "Kepler-732 c",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-115 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-329 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-1827 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-393 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-1319 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-1379 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-138 d",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-1420 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-1438 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-1622 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-1626 b",
+        "radius": 1.24
+    },
+    {
+        "name": "Kepler-415 b",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-32 e",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-303 c",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-1809 b",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-1082 b",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-1189 b",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-1429 b",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-617 b",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-730 c",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-1481 b",
+        "radius": 1.23
+    },
+    {
+        "name": "Kepler-271 b",
+        "radius": 1.22
+    },
+    {
+        "name": "Kepler-316 b",
+        "radius": 1.22
+    },
+    {
+        "name": "Kepler-1095 b",
+        "radius": 1.22
+    },
+    {
+        "name": "Kepler-1377 b",
+        "radius": 1.22
+    },
+    {
+        "name": "Kepler-1357 b",
+        "radius": 1.22
+    },
+    {
+        "name": "Kepler-1363 b",
+        "radius": 1.22
+    },
+    {
+        "name": "Kepler-132 b",
+        "radius": 1.22
+    },
+    {
+        "name": "Kepler-197 b",
+        "radius": 1.22
+    },
+    {
+        "name": "Kepler-1595 b",
+        "radius": 1.22
+    },
+    {
+        "name": "Kepler-743 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-285 c",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-332 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-367 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-1686 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-26 d",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-1264 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-402 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-1358 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-1418 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-1437 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-150 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-647 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-215 c",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-1578 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-1616 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-1912 b",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-1038 c",
+        "radius": 1.21
+    },
+    {
+        "name": "Kepler-235 c",
+        "radius": 1.2
+    },
+    {
+        "name": "Kepler-286 b",
+        "radius": 1.2
+    },
+    {
+        "name": "Kepler-808 b",
+        "radius": 1.2
+    },
+    {
+        "name": "Kepler-380 b",
+        "radius": 1.2
+    },
+    {
+        "name": "Kepler-1303 b",
+        "radius": 1.2
+    },
+    {
+        "name": "Kepler-1623 b",
+        "radius": 1.2
+    },
+    {
+        "name": "Kepler-1488 c",
+        "radius": 1.2
+    },
+    {
+        "name": "Kepler-85 e",
+        "radius": 1.19
+    },
+    {
+        "name": "Kepler-1284 b",
+        "radius": 1.19
+    },
+    {
+        "name": "Kepler-1215 b",
+        "radius": 1.19
+    },
+    {
+        "name": "Kepler-80 f",
+        "radius": 1.19
+    },
+    {
+        "name": "Kepler-169 b",
+        "radius": 1.19
+    },
+    {
+        "name": "Kepler-1576 b",
+        "radius": 1.19
+    },
+    {
+        "name": "Kepler-1589 b",
+        "radius": 1.19
+    },
+    {
+        "name": "Kepler-1959 b",
+        "radius": 1.19
+    },
+    {
+        "name": "Kepler-252 b",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-847 b",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-1055 b",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-341 b",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-376 b",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-404 b",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-520 c",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-101 c",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-220 e",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-186 f",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-296 f",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-342 e",
+        "radius": 1.18
+    },
+    {
+        "name": "Kepler-746 b",
+        "radius": 1.17
+    },
+    {
+        "name": "Kepler-466 c",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-249 c",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-787 b",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-775 b",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-908 b",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-884 b",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-333 c",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-367 c",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-1901 b",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-1900 b",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-348 c",
+        "radius": 1.16
+    },
+    {
+        "name": "Kepler-324 b",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-1007 b",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-334 b",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-1805 b",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-1839 b",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-1372 b",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-1693 c",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-192 d",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-186 e",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-1950 b",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-1470 b",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-332 d",
+        "radius": 1.15
+    },
+    {
+        "name": "Kepler-757 b",
+        "radius": 1.14
+    },
+    {
+        "name": "Kepler-296 b",
+        "radius": 1.14
+    },
+    {
+        "name": "Kepler-1139 b",
+        "radius": 1.14
+    },
+    {
+        "name": "Kepler-363 b",
+        "radius": 1.14
+    },
+    {
+        "name": "Kepler-395 c",
+        "radius": 1.14
+    },
+    {
+        "name": "Kepler-186 c",
+        "radius": 1.14
+    },
+    {
+        "name": "Kepler-1587 b",
+        "radius": 1.14
+    },
+    {
+        "name": "Kepler-1956 b",
+        "radius": 1.14
+    },
+    {
+        "name": "Kepler-1499 b",
+        "radius": 1.14
+    },
+    {
+        "name": "Kepler-407 b",
+        "radius": 1.13
+    },
+    {
+        "name": "Kepler-1263 b",
+        "radius": 1.13
+    },
+    {
+        "name": "Kepler-1283 b",
+        "radius": 1.13
+    },
+    {
+        "name": "Kepler-1694 b",
+        "radius": 1.13
+    },
+    {
+        "name": "Kepler-1398 c",
+        "radius": 1.13
+    },
+    {
+        "name": "Kepler-185 b",
+        "radius": 1.13
+    },
+    {
+        "name": "Kepler-887 c",
+        "radius": 1.12
+    },
+    {
+        "name": "Kepler-1074 b",
+        "radius": 1.12
+    },
+    {
+        "name": "Kepler-1197 b",
+        "radius": 1.12
+    },
+    {
+        "name": "Kepler-393 c",
+        "radius": 1.12
+    },
+    {
+        "name": "Kepler-1408 b",
+        "radius": 1.12
+    },
+    {
+        "name": "Kepler-249 d",
+        "radius": 1.11
+    },
+    {
+        "name": "Kepler-409 b",
+        "radius": 1.11
+    },
+    {
+        "name": "Kepler-327 b",
+        "radius": 1.11
+    },
+    {
+        "name": "Kepler-1164 b",
+        "radius": 1.11
+    },
+    {
+        "name": "Kepler-1340 b",
+        "radius": 1.11
+    },
+    {
+        "name": "Kepler-534 c",
+        "radius": 1.11
+    },
+    {
+        "name": "Kepler-167 d",
+        "radius": 1.11
+    },
+    {
+        "name": "Kepler-595 c",
+        "radius": 1.11
+    },
+    {
+        "name": "Kepler-1961 b",
+        "radius": 1.11
+    },
+    {
+        "name": "Kepler-282 c",
+        "radius": 1.1
+    },
+    {
+        "name": "Kepler-889 b",
+        "radius": 1.1
+    },
+    {
+        "name": "Kepler-324 d",
+        "radius": 1.1
+    },
+    {
+        "name": "Kepler-1943 b",
+        "radius": 1.1
+    },
+    {
+        "name": "Kepler-1553 b",
+        "radius": 1.1
+    },
+    {
+        "name": "Kepler-304 e",
+        "radius": 1.09
+    },
+    {
+        "name": "Kepler-59 b",
+        "radius": 1.09
+    },
+    {
+        "name": "Kepler-1276 b",
+        "radius": 1.09
+    },
+    {
+        "name": "Kepler-1445 b",
+        "radius": 1.09
+    },
+    {
+        "name": "Kepler-452 b",
+        "radius": 1.09
+    },
+    {
+        "name": "Kepler-250 b",
+        "radius": 1.08
+    },
+    {
+        "name": "Kepler-804 c",
+        "radius": 1.08
+    },
+    {
+        "name": "Kepler-1376 b",
+        "radius": 1.08
+    },
+    {
+        "name": "Kepler-1427 b",
+        "radius": 1.08
+    },
+    {
+        "name": "Kepler-1890 b",
+        "radius": 1.08
+    },
+    {
+        "name": "Kepler-1501 b",
+        "radius": 1.08
+    },
+    {
+        "name": "Kepler-1505 b",
+        "radius": 1.08
+    },
+    {
+        "name": "Kepler-1671 b",
+        "radius": 1.07
+    },
+    {
+        "name": "Kepler-1945 b",
+        "radius": 1.07
+    },
+    {
+        "name": "Kepler-392 c",
+        "radius": 1.07
+    },
+    {
+        "name": "Kepler-1619 b",
+        "radius": 1.07
+    },
+    {
+        "name": "Kepler-1705 b",
+        "radius": 1.07
+    },
+    {
+        "name": "Kepler-107 d",
+        "radius": 1.06
+    },
+    {
+        "name": "Kepler-124 b",
+        "radius": 1.06
+    },
+    {
+        "name": "Kepler-1876 b",
+        "radius": 1.06
+    },
+    {
+        "name": "Kepler-1955 b",
+        "radius": 1.06
+    },
+    {
+        "name": "Kepler-1573 b",
+        "radius": 1.06
+    },
+    {
+        "name": "Kepler-1953 b",
+        "radius": 1.06
+    },
+    {
+        "name": "Kepler-1618 b",
+        "radius": 1.06
+    },
+    {
+        "name": "Kepler-969 c",
+        "radius": 1.06
+    },
+    {
+        "name": "Kepler-296 e",
+        "radius": 1.06
+    },
+    {
+        "name": "Kepler-353 b",
+        "radius": 1.05
+    },
+    {
+        "name": "Kepler-1163 b",
+        "radius": 1.05
+    },
+    {
+        "name": "Kepler-1338 b",
+        "radius": 1.05
+    },
+    {
+        "name": "Kepler-1902 b",
+        "radius": 1.05
+    },
+    {
+        "name": "Kepler-1907 b",
+        "radius": 1.05
+    },
+    {
+        "name": "Kepler-1594 b",
+        "radius": 1.05
+    },
+    {
+        "name": "Kepler-327 c",
+        "radius": 1.04
+    },
+    {
+        "name": "Kepler-1248 b",
+        "radius": 1.04
+    },
+    {
+        "name": "Kepler-332 c",
+        "radius": 1.04
+    },
+    {
+        "name": "Kepler-1409 b",
+        "radius": 1.04
+    },
+    {
+        "name": "Kepler-1869 b",
+        "radius": 1.03
+    },
+    {
+        "name": "Kepler-1430 b",
+        "radius": 1.03
+    },
+    {
+        "name": "Kepler-1911 b",
+        "radius": 1.03
+    },
+    {
+        "name": "Kepler-282 b",
+        "radius": 1.02
+    },
+    {
+        "name": "Kepler-1692 b",
+        "radius": 1.02
+    },
+    {
+        "name": "Kepler-1888 b",
+        "radius": 1.02
+    },
+    {
+        "name": "Kepler-130 b",
+        "radius": 1.02
+    },
+    {
+        "name": "Kepler-1398 b",
+        "radius": 1.02
+    },
+    {
+        "name": "Kepler-312 b",
+        "radius": 1.02
+    },
+    {
+        "name": "Kepler-1741 b",
+        "radius": 1.01
+    },
+    {
+        "name": "Kepler-336 b",
+        "radius": 1.01
+    },
+    {
+        "name": "Kepler-1117 b",
+        "radius": 1.01
+    },
+    {
+        "name": "Kepler-387 b",
+        "radius": 1.01
+    },
+    {
+        "name": "Kepler-398 d",
+        "radius": 1.01
+    },
+    {
+        "name": "Kepler-1417 b",
+        "radius": 1.01
+    },
+    {
+        "name": "Kepler-1966 b",
+        "radius": 1.01
+    },
+    {
+        "name": "Kepler-114 b",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-1650 b",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-395 b",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-387 c",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-1312 c",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-398 b",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-625 c",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-1590 b",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-1031 b",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-1482 b",
+        "radius": 1
+    },
+    {
+        "name": "Kepler-1759 b",
+        "radius": 0.99
+    },
+    {
+        "name": "Kepler-309 b",
+        "radius": 0.99
+    },
+    {
+        "name": "Kepler-1203 b",
+        "radius": 0.99
+    },
+    {
+        "name": "Kepler-398 c",
+        "radius": 0.99
+    },
+    {
+        "name": "Kepler-1910 b",
+        "radius": 0.99
+    },
+    {
+        "name": "Kepler-1939 b",
+        "radius": 0.99
+    },
+    {
+        "name": "Kepler-1592 b",
+        "radius": 0.99
+    },
+    {
+        "name": "Kepler-1698 b",
+        "radius": 0.99
+    },
+    {
+        "name": "Kepler-1200 b",
+        "radius": 0.98
+    },
+    {
+        "name": "Kepler-378 b",
+        "radius": 0.98
+    },
+    {
+        "name": "Kepler-1285 b",
+        "radius": 0.98
+    },
+    {
+        "name": "Kepler-1347 b",
+        "radius": 0.98
+    },
+    {
+        "name": "Kepler-1957 b",
+        "radius": 0.98
+    },
+    {
+        "name": "Kepler-1960 b",
+        "radius": 0.98
+    },
+    {
+        "name": "Kepler-1047 c",
+        "radius": 0.98
+    },
+    {
+        "name": "Kepler-1053 b",
+        "radius": 0.97
+    },
+    {
+        "name": "Kepler-322 b",
+        "radius": 0.97
+    },
+    {
+        "name": "Kepler-1141 b",
+        "radius": 0.97
+    },
+    {
+        "name": "Kepler-1832 b",
+        "radius": 0.97
+    },
+    {
+        "name": "Kepler-1695 b",
+        "radius": 0.97
+    },
+    {
+        "name": "Kepler-186 b",
+        "radius": 0.97
+    },
+    {
+        "name": "Kepler-1603 b",
+        "radius": 0.97
+    },
+    {
+        "name": "Kepler-438 b",
+        "radius": 0.97
+    },
+    {
+        "name": "Kepler-1763 b",
+        "radius": 0.97
+    },
+    {
+        "name": "Kepler-1846 b",
+        "radius": 0.96
+    },
+    {
+        "name": "Kepler-605 c",
+        "radius": 0.96
+    },
+    {
+        "name": "Kepler-450 d",
+        "radius": 0.96
+    },
+    {
+        "name": "Kepler-392 b",
+        "radius": 0.95
+    },
+    {
+        "name": "Kepler-102 f",
+        "radius": 0.95
+    },
+    {
+        "name": "Kepler-197 e",
+        "radius": 0.95
+    },
+    {
+        "name": "Kepler-444 f",
+        "radius": 0.95
+    },
+    {
+        "name": "Kepler-1646 b",
+        "radius": 0.95
+    },
+    {
+        "name": "Kepler-271 c",
+        "radius": 0.94
+    },
+    {
+        "name": "Kepler-1598 b",
+        "radius": 0.94
+    },
+    {
+        "name": "Kepler-1612 b",
+        "radius": 0.94
+    },
+    {
+        "name": "Kepler-882 b",
+        "radius": 0.93
+    },
+    {
+        "name": "Kepler-1081 b",
+        "radius": 0.93
+    },
+    {
+        "name": "Kepler-1169 b",
+        "radius": 0.93
+    },
+    {
+        "name": "Kepler-1173 b",
+        "radius": 0.93
+    },
+    {
+        "name": "Kepler-1367 b",
+        "radius": 0.93
+    },
+    {
+        "name": "Kepler-1909 b",
+        "radius": 0.93
+    },
+    {
+        "name": "Kepler-1591 b",
+        "radius": 0.93
+    },
+    {
+        "name": "Kepler-352 b",
+        "radius": 0.92
+    },
+    {
+        "name": "Kepler-1130 b",
+        "radius": 0.92
+    },
+    {
+        "name": "Kepler-1293 b",
+        "radius": 0.92
+    },
+    {
+        "name": "Kepler-445 b",
+        "radius": 0.92
+    },
+    {
+        "name": "Kepler-1365 b",
+        "radius": 0.92
+    },
+    {
+        "name": "Kepler-1898 b",
+        "radius": 0.92
+    },
+    {
+        "name": "Kepler-212 b",
+        "radius": 0.92
+    },
+    {
+        "name": "Kepler-1525 b",
+        "radius": 0.92
+    },
+    {
+        "name": "Kepler-249 b",
+        "radius": 0.91
+    },
+    {
+        "name": "Kepler-1027 b",
+        "radius": 0.91
+    },
+    {
+        "name": "Kepler-388 c",
+        "radius": 0.91
+    },
+    {
+        "name": "Kepler-68 c",
+        "radius": 0.91
+    },
+    {
+        "name": "Kepler-1421 b",
+        "radius": 0.91
+    },
+    {
+        "name": "Kepler-1331 b",
+        "radius": 0.91
+    },
+    {
+        "name": "Kepler-607 b",
+        "radius": 0.91
+    },
+    {
+        "name": "Kepler-1542 d",
+        "radius": 0.91
+    },
+    {
+        "name": "Kepler-1972 c",
+        "radius": 0.91
+    },
+    {
+        "name": "Kepler-780 b",
+        "radius": 0.9
+    },
+    {
+        "name": "Kepler-1735 b",
+        "radius": 0.9
+    },
+    {
+        "name": "Kepler-1412 b",
+        "radius": 0.9
+    },
+    {
+        "name": "Kepler-1435 b",
+        "radius": 0.9
+    },
+    {
+        "name": "Kepler-20 f",
+        "radius": 0.9
+    },
+    {
+        "name": "Kepler-220 d",
+        "radius": 0.9
+    },
+    {
+        "name": "Kepler-1560 b",
+        "radius": 0.9
+    },
+    {
+        "name": "Kepler-1222 b",
+        "radius": 0.89
+    },
+    {
+        "name": "Kepler-1373 b",
+        "radius": 0.89
+    },
+    {
+        "name": "Kepler-1361 b",
+        "radius": 0.89
+    },
+    {
+        "name": "Kepler-1597 b",
+        "radius": 0.89
+    },
+    {
+        "name": "Kepler-119 c",
+        "radius": 0.88
+    },
+    {
+        "name": "Kepler-388 b",
+        "radius": 0.88
+    },
+    {
+        "name": "Kepler-303 b",
+        "radius": 0.87
+    },
+    {
+        "name": "Kepler-1860 b",
+        "radius": 0.87
+    },
+    {
+        "name": "Kepler-1387 b",
+        "radius": 0.87
+    },
+    {
+        "name": "Kepler-431 d",
+        "radius": 0.87
+    },
+    {
+        "name": "Kepler-1152 b",
+        "radius": 0.86
+    },
+    {
+        "name": "Kepler-220 b",
+        "radius": 0.86
+    },
+    {
+        "name": "Kepler-1464 c",
+        "radius": 0.86
+    },
+    {
+        "name": "Kepler-1561 b",
+        "radius": 0.85
+    },
+    {
+        "name": "Kepler-1934 b",
+        "radius": 0.85
+    },
+    {
+        "name": "Kepler-1443 b",
+        "radius": 0.85
+    },
+    {
+        "name": "Kepler-1542 e",
+        "radius": 0.85
+    },
+    {
+        "name": "Kepler-314 b",
+        "radius": 0.84
+    },
+    {
+        "name": "Kepler-1385 b",
+        "radius": 0.84
+    },
+    {
+        "name": "Kepler-20 e",
+        "radius": 0.84
+    },
+    {
+        "name": "Kepler-1601 b",
+        "radius": 0.84
+    },
+    {
+        "name": "Kepler-1087 b",
+        "radius": 0.83
+    },
+    {
+        "name": "Kepler-524 c",
+        "radius": 0.83
+    },
+    {
+        "name": "Kepler-131 c",
+        "radius": 0.83
+    },
+    {
+        "name": "Kepler-1542 b",
+        "radius": 0.83
+    },
+    {
+        "name": "Kepler-910 b",
+        "radius": 0.82
+    },
+    {
+        "name": "Kepler-653 c",
+        "radius": 0.82
+    },
+    {
+        "name": "Kepler-1566 b",
+        "radius": 0.82
+    },
+    {
+        "name": "Kepler-1049 b",
+        "radius": 0.81
+    },
+    {
+        "name": "Kepler-1365 c",
+        "radius": 0.81
+    },
+    {
+        "name": "Kepler-1588 b",
+        "radius": 0.81
+    },
+    {
+        "name": "Kepler-1963 b",
+        "radius": 0.81
+    },
+    {
+        "name": "Kepler-1507 b",
+        "radius": 0.81
+    },
+    {
+        "name": "Kepler-125 c",
+        "radius": 0.8
+    },
+    {
+        "name": "Kepler-1689 b",
+        "radius": 0.8
+    },
+    {
+        "name": "Kepler-1558 b",
+        "radius": 0.8
+    },
+    {
+        "name": "Kepler-390 c",
+        "radius": 0.8
+    },
+    {
+        "name": "Kepler-1512 b",
+        "radius": 0.8
+    },
+    {
+        "name": "Kepler-1703 c",
+        "radius": 0.8
+    },
+    {
+        "name": "Kepler-106 b",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-345 b",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-1076 b",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-1157 b",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-1308 b",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-1559 b",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-378 c",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-1582 b",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-1703 b",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-1637 b",
+        "radius": 0.79
+    },
+    {
+        "name": "Kepler-42 b",
+        "radius": 0.78
+    },
+    {
+        "name": "Kepler-1352 b",
+        "radius": 0.78
+    },
+    {
+        "name": "Kepler-1446 b",
+        "radius": 0.78
+    },
+    {
+        "name": "Kepler-1278 b",
+        "radius": 0.77
+    },
+    {
+        "name": "Kepler-406 c",
+        "radius": 0.77
+    },
+    {
+        "name": "Kepler-42 c",
+        "radius": 0.76
+    },
+    {
+        "name": "Kepler-1563 b",
+        "radius": 0.75
+    },
+    {
+        "name": "Kepler-1067 b",
+        "radius": 0.75
+    },
+    {
+        "name": "Kepler-779 b",
+        "radius": 0.74
+    },
+    {
+        "name": "Kepler-1339 b",
+        "radius": 0.74
+    },
+    {
+        "name": "Kepler-390 b",
+        "radius": 0.73
+    },
+    {
+        "name": "Kepler-431 b",
+        "radius": 0.73
+    },
+    {
+        "name": "Kepler-141 b",
+        "radius": 0.73
+    },
+    {
+        "name": "Kepler-1581 b",
+        "radius": 0.73
+    },
+    {
+        "name": "Kepler-37 c",
+        "radius": 0.72
+    },
+    {
+        "name": "Kepler-431 c",
+        "radius": 0.72
+    },
+    {
+        "name": "Kepler-1948 b",
+        "radius": 0.72
+    },
+    {
+        "name": "Kepler-352 d",
+        "radius": 0.72
+    },
+    {
+        "name": "Kepler-1425 b",
+        "radius": 0.72
+    },
+    {
+        "name": "Kepler-1235 b",
+        "radius": 0.7
+    },
+    {
+        "name": "Kepler-1371 b",
+        "radius": 0.7
+    },
+    {
+        "name": "Kepler-1395 b",
+        "radius": 0.7
+    },
+    {
+        "name": "Kepler-1349 b",
+        "radius": 0.7
+    },
+    {
+        "name": "Kepler-1542 c",
+        "radius": 0.7
+    },
+    {
+        "name": "Kepler-408 b",
+        "radius": 0.69
+    },
+    {
+        "name": "Kepler-783 b",
+        "radius": 0.68
+    },
+    {
+        "name": "Kepler-1130 c",
+        "radius": 0.68
+    },
+    {
+        "name": "Kepler-1972 b",
+        "radius": 0.68
+    },
+    {
+        "name": "Kepler-1867 b",
+        "radius": 0.68
+    },
+    {
+        "name": "Kepler-1629 b",
+        "radius": 0.68
+    },
+    {
+        "name": "Kepler-1855 b",
+        "radius": 0.67
+    },
+    {
+        "name": "Kepler-1393 b",
+        "radius": 0.67
+    },
+    {
+        "name": "Kepler-271 d",
+        "radius": 0.67
+    },
+    {
+        "name": "Kepler-42 d",
+        "radius": 0.66
+    },
+    {
+        "name": "Kepler-1371 c",
+        "radius": 0.65
+    },
+    {
+        "name": "Kepler-444 c",
+        "radius": 0.65
+    },
+    {
+        "name": "Kepler-444 d",
+        "radius": 0.65
+    },
+    {
+        "name": "Kepler-1130 d",
+        "radius": 0.64
+    },
+    {
+        "name": "Kepler-102 c",
+        "radius": 0.63
+    },
+    {
+        "name": "Kepler-1178 b",
+        "radius": 0.63
+    },
+    {
+        "name": "Kepler-444 e",
+        "radius": 0.62
+    },
+    {
+        "name": "Kepler-1351 b",
+        "radius": 0.6
+    },
+    {
+        "name": "Kepler-1864 b",
+        "radius": 0.59
+    },
+    {
+        "name": "Kepler-138 b",
+        "radius": 0.59
+    },
+    {
+        "name": "Kepler-1583 b",
+        "radius": 0.59
+    },
+    {
+        "name": "Kepler-1579 b",
+        "radius": 0.59
+    },
+    {
+        "name": "Kepler-62 c",
+        "radius": 0.57
+    },
+    {
+        "name": "Kepler-1850 b",
+        "radius": 0.55
+    },
+    {
+        "name": "Kepler-1877 b",
+        "radius": 0.53
+    },
+    {
+        "name": "Kepler-1649 c",
+        "radius": 0.53
+    },
+    {
+        "name": "Kepler-102 b",
+        "radius": 0.51
+    },
+    {
+        "name": "Kepler-444 b",
+        "radius": 0.5
+    },
+    {
+        "name": "Kepler-1649 b",
+        "radius": 0.49
+    },
+    {
+        "name": "Kepler-1971 b",
+        "radius": 0.42
+    },
+    {
+        "name": "Kepler-37 b",
+        "radius": 0.27
+    }
+]
