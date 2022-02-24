@@ -6,6 +6,10 @@
 
 ### Por Dani Vicario
 
+¿Necesitas formación en programación creativa, live codings, tienes dudas con el código?
+
+https://www.linkedin.com/in/danivicario/
+
 Sígueme en Github
 https://github.com/danivicario
 
