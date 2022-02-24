@@ -1,14 +1,8 @@
-## Webinar
-
-[AQUÍ](https://www.youtube.com/watch?v=4_sxETpcyKs)
-
 # Exoplanetas & NASA API
 
-### Por Dani Vicario
+## Por Dani Vicario
 
-¿Necesitas formación en programación creativa, live codings, tienes dudas con el código?
-
-https://www.linkedin.com/in/danivicario/
+### ¿Necesitas formación en programación creativa, live codings, tienes dudas con el código? https://www.linkedin.com/in/danivicario/
 
 Sígueme en Github
 https://github.com/danivicario
@@ -18,6 +12,10 @@ https://www.flickr.com/photos/danivicario
 
 Obras generativas en Behance
 https://www.behance.net/danivicario
+
+---
+
+## [Visita el Workshop](https://www.youtube.com/watch?v=4_sxETpcyKs)
 
 Enlace a la presentación: https://docs.google.com/presentation/d/1oP7hE90Zdw-I2dfNmA0U-K0SxbbZByoS4WbBOFTU8vc/edit?usp=sharing
 
